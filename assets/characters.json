@@ -3,32 +3,104 @@
         {
             "name": "Pecorine",
             "portraitPath": "/assets/portrait/pecorine.png",
-            "position": "front"
+            "position": "front",
+            "role": "tank"
         },
         {
             "name": "Kyaru",
             "portraitPath": "/assets/portrait/kyaru.png",
-            "position": "back"
+            "position": "back",
+            "role": "magic"
         },
         {
             "name": "Kokkoro",
             "portraitPath": "/assets/portrait/kokkoro.png",
-            "position": "mid"
+            "position": "mid",
+            "role": "support"
         },
         {
           "name": "Yui",
           "portraitPath": "/assets/portrait/yui.png",
-          "position": "back"
+          "position": "back",
+          "role": "heal"
         },
         {
           "name": "Rei",
           "portraitPath": "/assets/portrait/rei.png",
-          "position": "front"
+          "position": "front",
+          "role": "physical"
         },
         {
           "name": "Hiyori",
           "portraitPath": "/assets/portrait/hiyori.png",
-          "position": "front"
+          "position": "front",
+          "role": "physical"
+        },
+        {
+          "name": "Shizuru",
+          "portraitPath": "/assets/portrait/shizuru.png",
+          "position": "front",
+          "role": "tank"
+        },
+        {
+          "name": "Rino",
+          "portraitPath": "/assets/portrait/rino.png",
+          "position": "back",
+          "role": "physical"
+        },
+        {
+          "name": "Nozomi",
+          "portraitPath": "/assets/portrait/nozomi.png",
+          "position": "front",
+          "role": "tank"
+        },
+        {
+          "name": "Chika",
+          "portraitPath": "/assets/portrait/chika.png",
+          "position": "back",
+          "role": "support"
+        },
+        {
+          "name": "Tsumugi",
+          "portraitPath": "/assets/portrait/tsumugi.png",
+          "position": "front",
+          "role": "support"
+        },
+        {
+          "name": "Mimi",
+          "portraitPath": "/assets/portrait/mimi.png",
+          "position": "front",
+          "role": "physical"
+        },
+        {
+          "name": "Misogi",
+          "portraitPath": "/assets/portrait/misogi.png",
+          "position": "front",
+          "role": "physical"
+        },
+        {
+          "name": "Kyouka",
+          "portraitPath": "/assets/portrait/kyouka.png",
+          "position": "back",
+          "role": "magic"
+        },
+        {
+          "name": "Hatsune",
+          "portraitPath": "/assets/portrait/hatsune.png",
+          "position": "back",
+          "role": "magic"
+        },
+        {
+          "name": "Misato",
+          "portraitPath": "/assets/portrait/misato.png",
+          "position": "back",
+          "role": "support"
+        },
+        {
+          "name": "Aoi",
+          "portraitPath": "/assets/portrait/aoi.png",
+          "position": "back",
+          "role": "physical"
         }
     ]
 }
