@@ -1,52 +1,16 @@
 {
     "characters": [
         {
-            "name": "Pecorine",
-            "portraitPath": "/assets/portrait/pecorine.png",
-            "position": "front",
-            "role": "tank"
-        },
-        {
-            "name": "Kyaru",
-            "portraitPath": "/assets/portrait/kyaru.png",
-            "position": "back",
-            "role": "magic"
-        },
-        {
-            "name": "Kokkoro",
-            "portraitPath": "/assets/portrait/kokkoro.png",
-            "position": "mid",
-            "role": "support"
-        },
-        {
-          "name": "Yui",
-          "portraitPath": "/assets/portrait/yui.png",
+          "name": "Maho",
+          "portraitPath": "/assets/portrait/maho.png",
           "position": "back",
           "role": "heal"
-        },
-        {
-          "name": "Rei",
-          "portraitPath": "/assets/portrait/rei.png",
-          "position": "front",
-          "role": "physical"
-        },
-        {
-          "name": "Hiyori",
-          "portraitPath": "/assets/portrait/hiyori.png",
-          "position": "front",
-          "role": "physical"
         },
         {
           "name": "Shizuru",
           "portraitPath": "/assets/portrait/shizuru.png",
           "position": "front",
-          "role": "tank"
-        },
-        {
-          "name": "Rino",
-          "portraitPath": "/assets/portrait/rino.png",
-          "position": "back",
-          "role": "physical"
+          "role": "support"
         },
         {
           "name": "Nozomi",
@@ -55,27 +19,75 @@
           "role": "tank"
         },
         {
-          "name": "Chika",
-          "portraitPath": "/assets/portrait/chika.png",
-          "position": "back",
+          "name": "Monika",
+          "portraitPath": "/assets/portrait/monika.png",
+          "position": "mid",
           "role": "support"
         },
         {
-          "name": "Tsumugi",
-          "portraitPath": "/assets/portrait/tsumugi.png",
-          "position": "front",
-          "role": "support"
-        },
-        {
-          "name": "Mimi",
-          "portraitPath": "/assets/portrait/mimi.png",
+          "name": "Akino",
+          "portraitPath": "/assets/portrait/akino.png",
           "position": "front",
           "role": "physical"
         },
         {
-          "name": "Misogi",
-          "portraitPath": "/assets/portrait/misogi.png",
+          "name": "Makoto",
+          "portraitPath": "/assets/portrait/makoto.png",
           "position": "front",
+          "role": "physical"
+        },
+        {
+          "name": "Rino",
+          "portraitPath": "/assets/portrait/rino.png",
+          "position": "back",
+          "role": "physical"
+        },
+        {
+          "name": "Hatsune",
+          "portraitPath": "/assets/portrait/hatsune.png",
+          "position": "back",
+          "role": "magic"
+        },
+        {
+          "name": "Anna",
+          "portraitPath": "/assets/portrait/anna.png",
+          "position": "mid",
+          "role": "magic"
+        },
+        {
+          "name": "Io",
+          "portraitPath": "/assets/portrait/io.png",
+          "position": "back",
+          "role": "debuff"
+        },
+        {
+          "name": "Saren",
+          "portraitPath": "/assets/portrait/saren.png",
+          "position": "mid",
+          "role": "support"
+        },
+        {
+          "name": "Ninon",
+          "portraitPath": "/assets/portrait/ninon.png",
+          "position": "mid",
+          "role": "physical"
+        },
+        {
+          "name": "Djeeta",
+          "portraitPath": "/assets/portrait/djeeta.png",
+          "position": "front",
+          "role": "physical"
+        },
+        {
+          "name": "Jun",
+          "portraitPath": "/assets/portrait/jun.png",
+          "position": "front",
+          "role": "tank"
+        },
+        {
+          "name": "Arisa",
+          "portraitPath": "/assets/portrait/arisa.png",
+          "position": "back",
           "role": "physical"
         },
         {
@@ -85,22 +97,622 @@
           "role": "magic"
         },
         {
-          "name": "Hatsune",
-          "portraitPath": "/assets/portrait/hatsune.png",
+          "name": "Ilya",
+          "portraitPath": "/assets/portrait/ilya.png",
+          "position": "mid",
+          "role": "magic"
+        },
+        {
+          "name": "Tomo",
+          "portraitPath": "/assets/portrait/tomo.png",
+          "position": "front",
+          "role": "physical"
+        },
+        {
+          "name": "Ruka",
+          "portraitPath": "/assets/portrait/ruka.png",
+          "position": "front",
+          "role": "tank"
+        },
+        {
+          "name": "Kasumi",
+          "portraitPath": "/assets/portrait/kasumi.png",
+          "position": "back",
+          "role": "debuff"
+        },
+        {
+          "name": "Anne",
+          "portraitPath": "/assets/portrait/anne.png",
           "position": "back",
           "role": "magic"
+        },
+        {
+          "name": "Grea",
+          "portraitPath": "/assets/portrait/grea.png",
+          "position": "mid",
+          "role": "magic"
+        },
+        {
+          "name": "Oedo Kuuka",
+          "portraitPath": "/assets/portrait/oedo/kuuka.png",
+          "position": "front",
+          "role": "tank"
+        },
+        {
+          "name": "Oedo Ninon",
+          "portraitPath": "/assets/portrait/oedo/ninon.png",
+          "position": "front",
+          "role": "physical"
+        },
+        {
+          "name": "Transfer Student Aoi",
+          "portraitPath": "/assets/portrait/transferstudent/aoi.png",
+          "position": "back",
+          "role": "physical"
+        },
+        {
+          "name": "Chloe",
+          "portraitPath": "/assets/portrait/chloe.png",
+          "position": "front",
+          "role": "physical"
+        },
+        {
+          "name": "Halloween Mimi",
+          "portraitPath": "/assets/portrait/halloween/mimi.png",
+          "position": "mid",
+          "role": "physical"
+        },
+        {
+          "name": "Luna",
+          "portraitPath": "/assets/portrait/luna.png",
+          "position": "back",
+          "role": "magic"
+        },
+        {
+          "name": "Kaya",
+          "portraitPath": "/assets/portrait/kaya.png",
+          "position": "front",
+          "role": "physical"
+        },
+        {
+          "name": "Christmas Ilya",
+          "portraitPath": "/assets/portrait/christmas/ilya.png",
+          "position": "front",
+          "role": "magic"
+        },
+        {
+          "name": "Magical Girl Kasumi",
+          "portraitPath": "/assets/portrait/magicalgirl/kasumi.png",
+          "position": "back",
+          "role": "support"
+        },
+        {
+          "name": "Yuni",
+          "portraitPath": "/assets/portrait/yuni.png",
+          "position": "back",
+          "role": "support"
+        },
+        {
+          "name": "Chieru",
+          "portraitPath": "/assets/portrait/chieru.png",
+          "position": "front",
+          "role": "physical"
+        },
+        {
+          "name": "Ranger Rin",
+          "portraitPath": "/assets/portrait/ranger/rin.png",
+          "position": "mid",
+          "role": "physical"
+        },
+        {
+          "name": "Ranger Mahiru",
+          "portraitPath": "/assets/portrait/ranger/mahiru.png",
+          "position": "mid",
+          "role": "physical"
+        },
+        {
+          "name": "Wonderland Rino",
+          "portraitPath": "/assets/portrait/wonderland/rino.png",
+          "position": "back",
+          "role": "physical"
+        },
+        {
+          "name": "Inori",
+          "portraitPath": "/assets/portrait/inori.png",
+          "position": "front",
+          "role": "physical"
+        },
+        {
+          "name": "Summer Pecorine",
+          "portraitPath": "/assets/portrait/summer/pecorine.png",
+          "position": "front",
+          "role": "physical"
+        },
+        {
+          "name": "Summer Suzume",
+          "portraitPath": "/assets/portrait/summer/suzume.png",
+          "position": "back",
+          "role": "support"
+        },
+        {
+          "name": "Summer Kyaru",
+          "portraitPath": "/assets/portrait/summer/kyaru.png",
+          "position": "back",
+          "role": "magic"
+        },
+        {
+          "name": "Summer Tamaki",
+          "portraitPath": "/assets/portrait/summer/tamaki.png",
+          "position": "front",
+          "role": "physical"
+        },
+        {
+          "name": "Halloween Shinobu",
+          "portraitPath": "/assets/portrait/halloween/shinobu.png",
+          "position": "mid",
+          "role": "physical"
+        },
+        {
+          "name": "Halloween Misaki",
+          "portraitPath": "/assets/portrait/halloween/misaki.png",
+          "position": "back",
+          "role": "debuff"
+        },
+        {
+          "name": "Christina",
+          "portraitPath": "/assets/portrait/christina.png",
+          "position": "front",
+          "role": "physical"
+        },
+        {
+          "name": "Christmas Chika",
+          "portraitPath": "/assets/portrait/christmas/chika.png",
+          "position": "back",
+          "role": "support"
+        },
+        {
+          "name": "Christmas Ayane",
+          "portraitPath": "/assets/portrait/christmas/ayane.png",
+          "position": "front",
+          "role": "physical"
+        },
+        {
+          "name": "New Year Yui",
+          "portraitPath": "/assets/portrait/newyear/yui.png",
+          "position": "back",
+          "role": "support"
+        },
+        {
+          "name": "New Year Hiyori",
+          "portraitPath": "/assets/portrait/newyear/hiyori.png",
+          "position": "front",
+          "role": "physical"
+        },
+        {
+          "name": "Valentine Shizuru",
+          "portraitPath": "/assets/portrait/valentine/shizuru.png",
+          "position": "mid",
+          "role": "support"
+        },
+        {
+          "name": "Muimi",
+          "portraitPath": "/assets/portrait/muimi.png",
+          "position": "front",
+          "role": "physical"
+        },
+        {
+          "name": "Rem",
+          "portraitPath": "/assets/portrait/rem.png",
+          "position": "mid",
+          "role": "physical"
+        },
+        {
+          "name": "Emilia",
+          "portraitPath": "/assets/portrait/emilia.png",
+          "position": "back",
+          "role": "support"
+        },
+        {
+          "name": "Summer Suzuna",
+          "portraitPath": "/assets/portrait/summer/suzuna.png",
+          "position": "back",
+          "role": "physical"
+        },
+        {
+          "name": "Summer Saren",
+          "portraitPath": "/assets/portrait/summer/saren.png",
+          "position": "mid",
+          "role": "support"
+        },
+        {
+          "name": "Summer Makoto",
+          "portraitPath": "/assets/portrait/summer/makoto.png",
+          "position": "front",
+          "role": "physical"
+        },
+        {
+          "name": "Summer Maho",
+          "portraitPath": "/assets/portrait/summer/maho.png",
+          "position": "back",
+          "role": "magic"
+        },
+        {
+          "name": "Neneka",
+          "portraitPath": "/assets/portrait/neneka.png",
+          "position": "back",
+          "role": "magic"
+        },
+        {
+          "name": "Christmas Christina",
+          "portraitPath": "/assets/portrait/christmas/christina.png",
+          "position": "front",
+          "role": "physical"
+        },
+        {
+          "name": "New Year Kyaru",
+          "portraitPath": "/assets/portrait/newyear/kyaru.png",
+          "position": "back",
+          "role": "magic"
+        },
+        {
+          "name": "New Year Kokkoro",
+          "portraitPath": "/assets/portrait/newyear/kokkoro.png",
+          "position": "front",
+          "role": "support"
+        },
+        {
+          "name": "Princess Pecorine",
+          "portraitPath": "/assets/portrait/princess/pecorine.png",
+          "position": "front",
+          "role": "tank"
+        },
+        {
+          "name": "Uzuki (Deremas)",
+          "portraitPath": "/assets/portrait/deremas/uzuki.png",
+          "position": "mid",
+          "role": "physical"
+        },
+        {
+          "name": "Rin (Deremas)",
+          "portraitPath": "/assets/portrait/deremas/rin.png",
+          "position": "front",
+          "role": "tank"
+        },
+        {
+          "name": "Princess Kokkoro",
+          "portraitPath": "/assets/portrait/princess/kokkoro.png",
+          "position": "mid",
+          "role": "support"
+        },
+        {
+          "name": "Princess Yui",
+          "portraitPath": "/assets/portrait/princess/yui.png",
+          "position": "back",
+          "role": "magic"
+        },
+        {
+          "name": "Summer Ruka",
+          "portraitPath": "/assets/portrait/summer/ruka.png",
+          "position": "front",
+          "role": "physical"
+        },
+        {
+          "name": "Akari",
+          "portraitPath": "/assets/portrait/akari.png",
+          "position": "mid",
+          "role": "support"
+        },
+        {
+          "name": "Miyako",
+          "portraitPath": "/assets/portrait/miyako.png",
+          "position": "front",
+          "role": "tank"
+        },
+        {
+          "name": "Yuki",
+          "portraitPath": "/assets/portrait/yuki.png",
+          "position": "back",
+          "role": "support"
+        },
+        {
+          "name": "Suzuna",
+          "portraitPath": "/assets/portrait/suzuna.png",
+          "position": "back",
+          "role": "physical"
+        },
+        {
+          "name": "Kaori",
+          "portraitPath": "/assets/portrait/kaori.png",
+          "position": "front",
+          "role": "physical"
+        },
+        {
+          "name": "Mimi",
+          "portraitPath": "/assets/portrait/mimi.png",
+          "position": "mid",
+          "role": "physical"
+        },
+        {
+          "name": "Eriko",
+          "portraitPath": "/assets/portrait/eriko.png",
+          "position": "front",
+          "role": "physical"
+        },
+        {
+          "name": "Shinobu",
+          "portraitPath": "/assets/portrait/shinobu.png",
+          "position": "mid",
+          "role": "debuff"
+        },
+        {
+          "name": "Mahiru",
+          "portraitPath": "/assets/portrait/mahiru.png",
+          "position": "mid",
+          "role": "physical"
+        },
+        {
+          "name": "Shiori",
+          "portraitPath": "/assets/portrait/shiori.png",
+          "position": "back",
+          "role": "physical"
+        },
+        {
+          "name": "Chika",
+          "portraitPath": "/assets/portrait/chika.png",
+          "position": "back",
+          "role": "heal"
+        },
+        {
+          "name": "Kuuka",
+          "portraitPath": "/assets/portrait/kuuka.png",
+          "position": "front",
+          "role": "tank"
+        },
+        {
+          "name": "Tamaki",
+          "portraitPath": "/assets/portrait/tamaki.png",
+          "position": "front",
+          "role": "physical"
+        },
+        {
+          "name": "Mifuyu",
+          "portraitPath": "/assets/portrait/mifuyu.png",
+          "position": "mid",
+          "role": "physical"
+        },
+        {
+          "name": "Mitsuki",
+          "portraitPath": "/assets/portrait/mitsuki.png",
+          "position": "mid",
+          "role": "debuff"
+        },
+        {
+          "name": "Rin",
+          "portraitPath": "/assets/portrait/rin.png",
+          "position": "mid",
+          "role": "physical"
         },
         {
           "name": "Misato",
           "portraitPath": "/assets/portrait/misato.png",
           "position": "back",
+          "role": "heal"
+        },
+        {
+          "name": "Tsumugi",
+          "portraitPath": "/assets/portrait/tsumugi.png",
+          "position": "front",
+          "role": "physical"
+        },
+        {
+          "name": "Ayane",
+          "portraitPath": "/assets/portrait/ayane.png",
+          "position": "front",
+          "role": "support"
+        },
+        {
+          "name": "Matsuri",
+          "portraitPath": "/assets/portrait/matsuri.png",
+          "position": "front",
+          "role": "physical"
+        },
+        {
+          "name": "Nanaka",
+          "portraitPath": "/assets/portrait/nanaka.png",
+          "position": "back",
+          "role": "magic"
+        },
+        {
+          "name": "Rei",
+          "portraitPath": "/assets/portrait/rei.png",
+          "position": "front",
+          "role": "physical"
+        },
+        {
+          "name": "Yukari",
+          "portraitPath": "/assets/portrait/yukari.png",
+          "position": "mid",
           "role": "support"
         },
         {
           "name": "Aoi",
           "portraitPath": "/assets/portrait/aoi.png",
           "position": "back",
+          "role": "debuff"
+        },
+        {
+          "name": "Yori",
+          "portraitPath": "/assets/portrait/yori.png",
+          "position": "mid",
+          "role": "magic"
+        },
+        {
+          "name": "Kokkoro",
+          "portraitPath": "/assets/portrait/kokkoro.png",
+          "position": "mid",
+          "role": "support"
+        },
+        {
+          "name": "Misogi",
+          "portraitPath": "/assets/portrait/misogi.png",
+          "position": "front",
+          "role": "debuff"
+        },
+        {
+          "name": "Rima",
+          "portraitPath": "/assets/portrait/rima.png",
+          "position": "front",
+          "role": "tank"
+        },
+        {
+          "name": "Kyaru",
+          "portraitPath": "/assets/portrait/kyaru.png",
+          "position": "back",
+          "role": "magic"
+        },
+        {
+          "name": "Suzume",
+          "portraitPath": "/assets/portrait/suzume.png",
+          "position": "back",
+          "role": "support"
+        },
+        {
+          "name": "Yui",
+          "portraitPath": "/assets/portrait/yui.png",
+          "position": "back",
+          "role": "heal"
+        },
+        {
+          "name": "Misaki",
+          "portraitPath": "/assets/portrait/misaki.png",
+          "position": "back",
+          "role": "magic"
+        },
+        {
+          "name": "Hiyori",
+          "portraitPath": "/assets/portrait/hiyori.png",
+          "position": "front",
           "role": "physical"
+        },
+        {
+          "name": "Pecorine",
+          "portraitPath": "/assets/portrait/pecorine.png",
+          "position": "front",
+          "role": "tank"
+        },
+        {
+          "name": "Kurumi",
+          "portraitPath": "/assets/portrait/kurumi.png",
+          "position": "front",
+          "role": "support"
+        },
+        {
+          "name": "Ayumi",
+          "portraitPath": "/assets/portrait/ayumi.png",
+          "position": "mid",
+          "role": "support"
+        },
+        {
+          "name": "Summer Kokkoro",
+          "portraitPath": "/assets/portrait/summer/kokkoro.png",
+          "position": "mid",
+          "role": "support"
+        },
+        {
+          "name": "Summer Mifuyu",
+          "portraitPath": "/assets/portrait/summer/mifuyu.png",
+          "position": "mid",
+          "role": "physical"
+        },
+        {
+          "name": "Halloween Miyako",
+          "portraitPath": "/assets/portrait/halloween/miyako.png",
+          "position": "front",
+          "role": "physical"
+        },
+        {
+          "name": "Christmas Kurumi",
+          "portraitPath": "/assets/portrait/christmas/kurumi.png",
+          "position": "front",
+          "role": "support"
+        },
+        {
+          "name": "New Year Rei",
+          "portraitPath": "/assets/portrait/newyear/rei.png",
+          "position": "front",
+          "role": "physical"
+        },
+        {
+          "name": "Valentine Eriko",
+          "portraitPath": "/assets/portrait/valentine/eriko.png",
+          "position": "front",
+          "role": "physical"
+        },
+        {
+          "name": "Lou",
+          "portraitPath": "/assets/portrait/lou.png",
+          "position": "back",
+          "role": "magic"
+        },
+        {
+          "name": "Ram",
+          "portraitPath": "/assets/portrait/ram.png",
+          "position": "mid",
+          "role": "magic"
+        },
+        {
+          "name": "Summer Io",
+          "portraitPath": "/assets/portrait/summer/io.png",
+          "position": "back",
+          "role": "debuff"
+        },
+        {
+          "name": "Summer Kaori",
+          "portraitPath": "/assets/portrait/summer/kaori.png",
+          "position": "mid",
+          "role": "physical"
+        },
+        {
+          "name": "Halloween Misogi",
+          "portraitPath": "/assets/portrait/halloween/misogi.png",
+          "position": "front",
+          "role": "physical"
+        },
+        {
+          "name": "Christmas Nozomi",
+          "portraitPath": "/assets/portrait/christmas/nozomi.png",
+          "position": "mid",
+          "role": "tank"
+        },
+        {
+          "name": "New Year Suzume",
+          "portraitPath": "/assets/portrait/newyear/suzume.png",
+          "position": "back",
+          "role": "support"
+        },
+        {
+          "name": "Magical Girl Shiori",
+          "portraitPath": "/assets/portrait/magicalgirl/shiori.png",
+          "position": "back",
+          "role": "support"
+        },
+        {
+          "name": "Mio (Deremas)",
+          "portraitPath": "/assets/portrait/deremas/mio.png",
+          "position": "back",
+          "role": "magic"
+        },
+        {
+          "name": "Wonderland Ayumi",
+          "portraitPath": "/assets/portrait/wonderland/ayumi.png",
+          "position": "mid",
+          "role": "support"
+        },
+        {
+          "name": "Summer Anna",
+          "portraitPath": "/assets/portrait/summer/anna.png",
+          "position": "front",
+          "role": "magic"
         }
     ]
 }
