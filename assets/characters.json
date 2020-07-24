@@ -713,6 +713,12 @@
           "portraitPath": "/assets/portrait/summer/anna.png",
           "position": "front",
           "role": "magic"
+        },
+        {
+          "name": "Summer Nanaka",
+          "portraitPath": "/assets/portrait/summer/nanaka.png",
+          "position": "mid",
+          "role": "magic"
         }
     ]
 }
