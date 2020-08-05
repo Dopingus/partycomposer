@@ -5,7 +5,7 @@
       "portraitPath": "/assets/portrait/hiyori.png",
       "position": "front",
       "role": "physical",
-      "id": 100101,
+      "id": 1001,
       "nameJP": "ヒヨリ"
     },
     {
@@ -13,7 +13,7 @@
       "portraitPath": "/assets/portrait/yui.png",
       "position": "back",
       "role": "heal",
-      "id": 100201,
+      "id": 1002,
       "nameJP": "ユイ"
     },
     {
@@ -21,7 +21,7 @@
       "portraitPath": "/assets/portrait/rei.png",
       "position": "front",
       "role": "physical",
-      "id": 100301,
+      "id": 1003,
       "nameJP": "レイ"
     },
     {
@@ -29,7 +29,7 @@
       "portraitPath": "/assets/portrait/misogi.png",
       "position": "front",
       "role": "debuff",
-      "id": 100401,
+      "id": 1004,
       "nameJP": "ミソギ"
     },
     {
@@ -37,7 +37,7 @@
       "portraitPath": "/assets/portrait/matsuri.png",
       "position": "front",
       "role": "physical",
-      "id": 100501,
+      "id": 1005,
       "nameJP": "マツリ"
     },
     {
@@ -45,7 +45,7 @@
       "portraitPath": "/assets/portrait/akari.png",
       "position": "mid",
       "role": "support",
-      "id": 100601,
+      "id": 1006,
       "nameJP": "アカリ"
     },
     {
@@ -53,7 +53,7 @@
       "portraitPath": "/assets/portrait/miyako.png",
       "position": "front",
       "role": "tank",
-      "id": 100701,
+      "id": 1007,
       "nameJP": "ミヤコ"
     },
     {
@@ -61,7 +61,7 @@
       "portraitPath": "/assets/portrait/yuki.png",
       "position": "back",
       "role": "support",
-      "id": 100801,
+      "id": 1008,
       "nameJP": "ユキ"
     },
     {
@@ -69,7 +69,7 @@
       "portraitPath": "/assets/portrait/anna.png",
       "position": "mid",
       "role": "magic",
-      "id": 100901,
+      "id": 1009,
       "nameJP": "アンナ"
     },
     {
@@ -77,7 +77,7 @@
       "portraitPath": "/assets/portrait/maho.png",
       "position": "back",
       "role": "heal",
-      "id": 101001,
+      "id": 1010,
       "nameJP": "マホ"
     },
     {
@@ -85,7 +85,7 @@
       "portraitPath": "/assets/portrait/rino.png",
       "position": "back",
       "role": "physical",
-      "id": 101101,
+      "id": 1011,
       "nameJP": "リノ"
     },
     {
@@ -93,7 +93,7 @@
       "portraitPath": "/assets/portrait/hatsune.png",
       "position": "back",
       "role": "magic",
-      "id": 101201,
+      "id": 1012,
       "nameJP": "ハツネ"
     },
     {
@@ -101,7 +101,7 @@
       "portraitPath": "/assets/portrait/nanaka.png",
       "position": "back",
       "role": "magic",
-      "id": 101301,
+      "id": 1013,
       "nameJP": "ナナカ"
     },
     {
@@ -109,7 +109,7 @@
       "portraitPath": "/assets/portrait/kasumi.png",
       "position": "back",
       "role": "debuff",
-      "id": 101401,
+      "id": 1014,
       "nameJP": "カスミ"
     },
     {
@@ -117,7 +117,7 @@
       "portraitPath": "/assets/portrait/misato.png",
       "position": "back",
       "role": "heal",
-      "id": 101501,
+      "id": 1015,
       "nameJP": "ミサト"
     },
     {
@@ -125,7 +125,7 @@
       "portraitPath": "/assets/portrait/suzuna.png",
       "position": "back",
       "role": "physical",
-      "id": 101601,
+      "id": 1016,
       "nameJP": "スズナ"
     },
     {
@@ -133,7 +133,7 @@
       "portraitPath": "/assets/portrait/kaori.png",
       "position": "front",
       "role": "physical",
-      "id": 101701,
+      "id": 1017,
       "nameJP": "カオリ"
     },
     {
@@ -141,7 +141,7 @@
       "portraitPath": "/assets/portrait/io.png",
       "position": "back",
       "role": "debuff",
-      "id": 101801,
+      "id": 1018,
       "nameJP": "イオ"
     },
     {
@@ -149,7 +149,7 @@
       "portraitPath": "/assets/portrait/mimi.png",
       "position": "mid",
       "role": "physical",
-      "id": 102001,
+      "id": 1020,
       "nameJP": "ミミ"
     },
     {
@@ -157,7 +157,7 @@
       "portraitPath": "/assets/portrait/kurumi.png",
       "position": "front",
       "role": "support",
-      "id": 102101,
+      "id": 1021,
       "nameJP": "クルミ"
     },
     {
@@ -165,7 +165,7 @@
       "portraitPath": "/assets/portrait/yori.png",
       "position": "mid",
       "role": "magic",
-      "id": 102201,
+      "id": 1022,
       "nameJP": "ヨリ"
     },
     {
@@ -173,7 +173,7 @@
       "portraitPath": "/assets/portrait/ayane.png",
       "position": "front",
       "role": "support",
-      "id": 102301,
+      "id": 1023,
       "nameJP": "アヤネ"
     },
     {
@@ -181,7 +181,7 @@
       "portraitPath": "/assets/portrait/suzume.png",
       "position": "back",
       "role": "support",
-      "id": 102501,
+      "id": 1025,
       "nameJP": "スズメ"
     },
     {
@@ -189,7 +189,7 @@
       "portraitPath": "/assets/portrait/rin.png",
       "position": "mid",
       "role": "physical",
-      "id": 102601,
+      "id": 1026,
       "nameJP": "リン"
     },
     {
@@ -197,7 +197,7 @@
       "portraitPath": "/assets/portrait/eriko.png",
       "position": "front",
       "role": "physical",
-      "id": 102701,
+      "id": 1027,
       "nameJP": "エリコ"
     },
     {
@@ -205,7 +205,7 @@
       "portraitPath": "/assets/portrait/saren.png",
       "position": "mid",
       "role": "support",
-      "id": 102801,
+      "id": 1028,
       "nameJP": "サレン"
     },
     {
@@ -213,7 +213,7 @@
       "portraitPath": "/assets/portrait/nozomi.png",
       "position": "front",
       "role": "tank",
-      "id": 102901,
+      "id": 1029,
       "nameJP": "ノゾミ"
     },
     {
@@ -221,7 +221,7 @@
       "portraitPath": "/assets/portrait/ninon.png",
       "position": "mid",
       "role": "physical",
-      "id": 103001,
+      "id": 1030,
       "nameJP": "ニノン"
     },
     {
@@ -229,7 +229,7 @@
       "portraitPath": "/assets/portrait/shinobu.png",
       "position": "mid",
       "role": "debuff",
-      "id": 103101,
+      "id": 1031,
       "nameJP": "シノブ"
     },
     {
@@ -237,7 +237,7 @@
       "portraitPath": "/assets/portrait/akino.png",
       "position": "front",
       "role": "physical",
-      "id": 103201,
+      "id": 1032,
       "nameJP": "アキノ"
     },
     {
@@ -245,7 +245,7 @@
       "portraitPath": "/assets/portrait/mahiru.png",
       "position": "mid",
       "role": "physical",
-      "id": 103301,
+      "id": 1033,
       "nameJP": "マヒル"
     },
     {
@@ -253,7 +253,7 @@
       "portraitPath": "/assets/portrait/yukari.png",
       "position": "mid",
       "role": "support",
-      "id": 103401,
+      "id": 1034,
       "nameJP": "ユカリ"
     },
     {
@@ -261,7 +261,7 @@
       "portraitPath": "/assets/portrait/kyouka.png",
       "position": "back",
       "role": "magic",
-      "id": 103601,
+      "id": 1036,
       "nameJP": "キョウカ"
     },
     {
@@ -269,7 +269,7 @@
       "portraitPath": "/assets/portrait/tomo.png",
       "position": "front",
       "role": "physical",
-      "id": 103701,
+      "id": 1037,
       "nameJP": "トモ"
     },
     {
@@ -277,7 +277,7 @@
       "portraitPath": "/assets/portrait/shiori.png",
       "position": "back",
       "role": "physical",
-      "id": 103801,
+      "id": 1038,
       "nameJP": "シオリ"
     },
     {
@@ -285,7 +285,7 @@
       "portraitPath": "/assets/portrait/aoi.png",
       "position": "back",
       "role": "debuff",
-      "id": 104001,
+      "id": 1040,
       "nameJP": "アオイ"
     },
     {
@@ -293,7 +293,7 @@
       "portraitPath": "/assets/portrait/chika.png",
       "position": "back",
       "role": "heal",
-      "id": 104201,
+      "id": 1042,
       "nameJP": "チカ"
     },
     {
@@ -301,7 +301,7 @@
       "portraitPath": "/assets/portrait/makoto.png",
       "position": "front",
       "role": "physical",
-      "id": 104301,
+      "id": 1043,
       "nameJP": "マコト"
     },
     {
@@ -309,7 +309,7 @@
       "portraitPath": "/assets/portrait/ilya.png",
       "position": "mid",
       "role": "magic",
-      "id": 104401,
+      "id": 1044,
       "nameJP": "イリヤ"
     },
     {
@@ -317,7 +317,7 @@
       "portraitPath": "/assets/portrait/kuuka.png",
       "position": "front",
       "role": "tank",
-      "id": 104501,
+      "id": 1045,
       "nameJP": "クウカ"
     },
     {
@@ -325,7 +325,7 @@
       "portraitPath": "/assets/portrait/tamaki.png",
       "position": "front",
       "role": "physical",
-      "id": 104601,
+      "id": 1046,
       "nameJP": "タマキ"
     },
     {
@@ -333,7 +333,7 @@
       "portraitPath": "/assets/portrait/jun.png",
       "position": "front",
       "role": "tank",
-      "id": 104701,
+      "id": 1047,
       "nameJP": "ジュン"
     },
     {
@@ -341,7 +341,7 @@
       "portraitPath": "/assets/portrait/mifuyu.png",
       "position": "mid",
       "role": "physical",
-      "id": 104801,
+      "id": 1048,
       "nameJP": "ミフユ"
     },
     {
@@ -349,7 +349,7 @@
       "portraitPath": "/assets/portrait/shizuru.png",
       "position": "front",
       "role": "support",
-      "id": 104901,
+      "id": 1049,
       "nameJP": "シズル"
     },
     {
@@ -357,7 +357,7 @@
       "portraitPath": "/assets/portrait/misaki.png",
       "position": "back",
       "role": "magic",
-      "id": 105001,
+      "id": 1050,
       "nameJP": "ミサキ"
     },
     {
@@ -365,7 +365,7 @@
       "portraitPath": "/assets/portrait/mitsuki.png",
       "position": "mid",
       "role": "debuff",
-      "id": 105101,
+      "id": 1051,
       "nameJP": "ミツキ"
     },
     {
@@ -373,7 +373,7 @@
       "portraitPath": "/assets/portrait/rima.png",
       "position": "front",
       "role": "tank",
-      "id": 105201,
+      "id": 1052,
       "nameJP": "リマ"
     },
     {
@@ -381,7 +381,7 @@
       "portraitPath": "/assets/portrait/monika.png",
       "position": "mid",
       "role": "support",
-      "id": 105301,
+      "id": 1053,
       "nameJP": "モニカ"
     },
     {
@@ -389,7 +389,7 @@
       "portraitPath": "/assets/portrait/tsumugi.png",
       "position": "front",
       "role": "physical",
-      "id": 105401,
+      "id": 1054,
       "nameJP": "ツムギ"
     },
     {
@@ -397,7 +397,7 @@
       "portraitPath": "/assets/portrait/ayumi.png",
       "position": "mid",
       "role": "support",
-      "id": 105501,
+      "id": 1055,
       "nameJP": "アユミ"
     },
     {
@@ -405,7 +405,7 @@
       "portraitPath": "/assets/portrait/ruka.png",
       "position": "front",
       "role": "tank",
-      "id": 105601,
+      "id": 1056,
       "nameJP": "ルカ"
     },
     {
@@ -413,7 +413,7 @@
       "portraitPath": "/assets/portrait/djeeta.png",
       "position": "front",
       "role": "physical",
-      "id": 105701,
+      "id": 1057,
       "nameJP": "ジータ"
     },
     {
@@ -421,7 +421,7 @@
       "portraitPath": "/assets/portrait/pecorine.png",
       "position": "front",
       "role": "tank",
-      "id": 105801,
+      "id": 1058,
       "nameJP": "ペコリーヌ"
     },
     {
@@ -429,7 +429,7 @@
       "portraitPath": "/assets/portrait/kokkoro.png",
       "position": "mid",
       "role": "support",
-      "id": 105901,
+      "id": 1059,
       "nameJP": "コッコロ"
     },
     {
@@ -437,7 +437,7 @@
       "portraitPath": "/assets/portrait/kyaru.png",
       "position": "back",
       "role": "magic",
-      "id": 106001,
+      "id": 1060,
       "nameJP": "キャル"
     },
     {
@@ -445,7 +445,7 @@
       "portraitPath": "/assets/portrait/muimi.png",
       "position": "front",
       "role": "physical",
-      "id": 106101,
+      "id": 1061,
       "nameJP": "ムイミ"
     },
     {
@@ -453,7 +453,7 @@
       "portraitPath": "/assets/portrait/arisa.png",
       "position": "back",
       "role": "physical",
-      "id": 106301,
+      "id": 1063,
       "nameJP": "アリサ"
     },
     {
@@ -461,7 +461,7 @@
       "portraitPath": "/assets/portrait/kaya.png",
       "position": "front",
       "role": "physical",
-      "id": 106501,
+      "id": 1065,
       "nameJP": "カヤ"
     },
     {
@@ -469,7 +469,7 @@
       "portraitPath": "/assets/portrait/inori.png",
       "position": "front",
       "role": "physical",
-      "id": 106601,
+      "id": 1066,
       "nameJP": "イノリ"
     },
     {
@@ -477,7 +477,7 @@
       "portraitPath": "/assets/portrait/neneka.png",
       "position": "back",
       "role": "magic",
-      "id": 107001,
+      "id": 1070,
       "nameJP": "ネネカ"
     },
     {
@@ -485,7 +485,7 @@
       "portraitPath": "/assets/portrait/christina.png",
       "position": "front",
       "role": "physical",
-      "id": 107101,
+      "id": 1071,
       "nameJP": "クリスティーナ"
     },
     {
@@ -493,7 +493,7 @@
       "portraitPath": "/assets/portrait/summer/pecorine.png",
       "position": "front",
       "role": "physical",
-      "id": 107501,
+      "id": 1075,
       "nameJP": "ペコリーヌ（サマー）"
     },
     {
@@ -501,7 +501,7 @@
       "portraitPath": "/assets/portrait/summer/kokkoro.png",
       "position": "mid",
       "role": "support",
-      "id": 107601,
+      "id": 1076,
       "nameJP": "コッコロ（サマー）"
     },
     {
@@ -509,7 +509,7 @@
       "portraitPath": "/assets/portrait/summer/suzume.png",
       "position": "back",
       "role": "support",
-      "id": 107701,
+      "id": 1077,
       "nameJP": "スズメ（サマー）"
     },
     {
@@ -517,7 +517,7 @@
       "portraitPath": "/assets/portrait/summer/kyaru.png",
       "position": "back",
       "role": "magic",
-      "id": 107801,
+      "id": 1078,
       "nameJP": "キャル（サマー）"
     },
     {
@@ -525,7 +525,7 @@
       "portraitPath": "/assets/portrait/summer/tamaki.png",
       "position": "front",
       "role": "physical",
-      "id": 107901,
+      "id": 1079,
       "nameJP": "タマキ（サマー）"
     },
     {
@@ -533,7 +533,7 @@
       "portraitPath": "/assets/portrait/summer/mifuyu.png",
       "position": "mid",
       "role": "physical",
-      "id": 108001,
+      "id": 1080,
       "nameJP": "ミフユ（サマー）"
     },
     {
@@ -541,7 +541,7 @@
       "portraitPath": "/assets/portrait/halloween/shinobu.png",
       "position": "mid",
       "role": "physical",
-      "id": 108101,
+      "id": 1081,
       "nameJP": "シノブ（ハロウィン）"
     },
     {
@@ -549,7 +549,7 @@
       "portraitPath": "/assets/portrait/halloween/miyako.png",
       "position": "front",
       "role": "physical",
-      "id": 108201,
+      "id": 1082,
       "nameJP": "ミヤコ（ハロウィン）"
     },
     {
@@ -557,7 +557,7 @@
       "portraitPath": "/assets/portrait/halloween/misaki.png",
       "position": "back",
       "role": "debuff",
-      "id": 108301,
+      "id": 1083,
       "nameJP": "ミサキ（ハロウィン）"
     },
     {
@@ -565,7 +565,7 @@
       "portraitPath": "/assets/portrait/christmas/chika.png",
       "position": "back",
       "role": "support",
-      "id": 108401,
+      "id": 1084,
       "nameJP": "チカ（クリスマス）"
     },
     {
@@ -573,7 +573,7 @@
       "portraitPath": "/assets/portrait/christmas/kurumi.png",
       "position": "front",
       "role": "support",
-      "id": 108501,
+      "id": 1085,
       "nameJP": "クルミ（クリスマス）"
     },
     {
@@ -581,7 +581,7 @@
       "portraitPath": "/assets/portrait/christmas/ayane.png",
       "position": "front",
       "role": "physical",
-      "id": 108601,
+      "id": 1086,
       "nameJP": "アヤネ（クリスマス）"
     },
     {
@@ -589,7 +589,7 @@
       "portraitPath": "/assets/portrait/newyear/hiyori.png",
       "position": "front",
       "role": "physical",
-      "id": 108701,
+      "id": 1087,
       "nameJP": "ヒヨリ（ニューイヤー）"
     },
     {
@@ -597,7 +597,7 @@
       "portraitPath": "/assets/portrait/newyear/yui.png",
       "position": "back",
       "role": "support",
-      "id": 108801,
+      "id": 1088,
       "nameJP": "ユイ（ニューイヤー）"
     },
     {
@@ -605,7 +605,7 @@
       "portraitPath": "/assets/portrait/newyear/rei.png",
       "position": "front",
       "role": "physical",
-      "id": 108901,
+      "id": 1089,
       "nameJP": "レイ（ニューイヤー）"
     },
     {
@@ -613,7 +613,7 @@
       "portraitPath": "/assets/portrait/valentine/eriko.png",
       "position": "front",
       "role": "physical",
-      "id": 109001,
+      "id": 1090,
       "nameJP": "エリコ（バレンタイン）"
     },
     {
@@ -621,7 +621,7 @@
       "portraitPath": "/assets/portrait/valentine/shizuru.png",
       "position": "mid",
       "role": "support",
-      "id": 109101,
+      "id": 1091,
       "nameJP": "シズル（バレンタイン）"
     },
     {
@@ -629,7 +629,7 @@
       "portraitPath": "/assets/portrait/anne.png",
       "position": "back",
       "role": "magic",
-      "id": 109201,
+      "id": 1092,
       "nameJP": "アン"
     },
     {
@@ -637,7 +637,7 @@
       "portraitPath": "/assets/portrait/lou.png",
       "position": "back",
       "role": "magic",
-      "id": 109301,
+      "id": 1093,
       "nameJP": "ルゥ"
     },
     {
@@ -645,7 +645,7 @@
       "portraitPath": "/assets/portrait/grea.png",
       "position": "mid",
       "role": "magic",
-      "id": 109401,
+      "id": 1094,
       "nameJP": "グレア"
     },
     {
@@ -653,7 +653,7 @@
       "portraitPath": "/assets/portrait/oedo/kuuka.png",
       "position": "front",
       "role": "tank",
-      "id": 109501,
+      "id": 1095,
       "nameJP": "クウカ（オーエド）"
     },
     {
@@ -661,7 +661,7 @@
       "portraitPath": "/assets/portrait/oedo/ninon.png",
       "position": "front",
       "role": "physical",
-      "id": 109601,
+      "id": 1096,
       "nameJP": "ニノン（オーエド）"
     },
     {
@@ -669,7 +669,7 @@
       "portraitPath": "/assets/portrait/rem.png",
       "position": "mid",
       "role": "physical",
-      "id": 109701,
+      "id": 1097,
       "nameJP": "レム"
     },
     {
@@ -677,7 +677,7 @@
       "portraitPath": "/assets/portrait/ram.png",
       "position": "mid",
       "role": "magic",
-      "id": 109801,
+      "id": 1098,
       "nameJP": "ラム"
     },
     {
@@ -685,7 +685,7 @@
       "portraitPath": "/assets/portrait/emilia.png",
       "position": "back",
       "role": "support",
-      "id": 109901,
+      "id": 1099,
       "nameJP": "エミリア"
     },
     {
@@ -693,7 +693,7 @@
       "portraitPath": "/assets/portrait/summer/suzuna.png",
       "position": "back",
       "role": "physical",
-      "id": 110001,
+      "id": 1100,
       "nameJP": "スズナ（サマー）"
     },
     {
@@ -701,7 +701,7 @@
       "portraitPath": "/assets/portrait/summer/io.png",
       "position": "back",
       "role": "debuff",
-      "id": 110101,
+      "id": 1101,
       "nameJP": "イオ（サマー）"
     },
     {
@@ -709,7 +709,7 @@
       "portraitPath": "/assets/portrait/summer/saren.png",
       "position": "mid",
       "role": "support",
-      "id": 110301,
+      "id": 1103,
       "nameJP": "サレン（サマー）"
     },
     {
@@ -717,7 +717,7 @@
       "portraitPath": "/assets/portrait/summer/makoto.png",
       "position": "front",
       "role": "physical",
-      "id": 110401,
+      "id": 1104,
       "nameJP": "マコト（サマー）"
     },
     {
@@ -725,7 +725,7 @@
       "portraitPath": "/assets/portrait/summer/kaori.png",
       "position": "mid",
       "role": "physical",
-      "id": 110501,
+      "id": 1105,
       "nameJP": "カオリ（サマー）"
     },
     {
@@ -733,7 +733,7 @@
       "portraitPath": "/assets/portrait/summer/maho.png",
       "position": "back",
       "role": "magic",
-      "id": 110601,
+      "id": 1106,
       "nameJP": "マホ（サマー）"
     },
     {
@@ -741,7 +741,7 @@
       "portraitPath": "/assets/portrait/transferstudent/aoi.png",
       "position": "back",
       "role": "physical",
-      "id": 110701,
+      "id": 1107,
       "nameJP": "アオイ（編入生）"
     },
     {
@@ -749,7 +749,7 @@
       "portraitPath": "/assets/portrait/chloe.png",
       "position": "front",
       "role": "physical",
-      "id": 110801,
+      "id": 1108,
       "nameJP": "クロエ"
     },
     {
@@ -757,7 +757,7 @@
       "portraitPath": "/assets/portrait/chieru.png",
       "position": "front",
       "role": "physical",
-      "id": 110901,
+      "id": 1109,
       "nameJP": "チエル"
     },
     {
@@ -765,7 +765,7 @@
       "portraitPath": "/assets/portrait/yuni.png",
       "position": "back",
       "role": "support",
-      "id": 111001,
+      "id": 1110,
       "nameJP": "ユニ"
     },
     {
@@ -773,7 +773,7 @@
       "portraitPath": "/assets/portrait/halloween/misogi.png",
       "position": "front",
       "role": "physical",
-      "id": 111201,
+      "id": 1112,
       "nameJP": "ミソギ（ハロウィン）"
     },
     {
@@ -781,7 +781,7 @@
       "portraitPath": "/assets/portrait/halloween/mimi.png",
       "position": "mid",
       "role": "physical",
-      "id": 111301,
+      "id": 1113,
       "nameJP": "ミミ（ハロウィン"
     },
     {
@@ -789,7 +789,7 @@
       "portraitPath": "/assets/portrait/luna.png",
       "position": "back",
       "role": "magic",
-      "id": 111401,
+      "id": 1114,
       "nameJP": "ルナ"
     },
     {
@@ -797,7 +797,7 @@
       "portraitPath": "/assets/portrait/christmas/christina.png",
       "position": "front",
       "role": "physical",
-      "id": 111501,
+      "id": 1115,
       "nameJP": "クリスティーナ（クリスマス）"
     },
     {
@@ -805,7 +805,7 @@
       "portraitPath": "/assets/portrait/christmas/nozomi.png",
       "position": "mid",
       "role": "tank",
-      "id": 111601,
+      "id": 1116,
       "nameJP": "ノゾミ（クリスマス）"
     },
     {
@@ -813,7 +813,7 @@
       "portraitPath": "/assets/portrait/christmas/ilya.png",
       "position": "front",
       "role": "magic",
-      "id": 111701,
+      "id": 1117,
       "nameJP": "イリヤ（クリスマス）"
     },
     {
@@ -821,7 +821,7 @@
       "portraitPath": "/assets/portrait/newyear/kokkoro.png",
       "position": "front",
       "role": "support",
-      "id": 111901,
+      "id": 1119,
       "nameJP": "コッコロ（ニューイヤー）"
     },
     {
@@ -829,7 +829,7 @@
       "portraitPath": "/assets/portrait/newyear/kyaru.png",
       "position": "back",
       "role": "magic",
-      "id": 112001,
+      "id": 1120,
       "nameJP": "キャル（ニューイヤー）"
     },
     {
@@ -837,7 +837,7 @@
       "portraitPath": "/assets/portrait/newyear/suzume.png",
       "position": "back",
       "role": "support",
-      "id": 112101,
+      "id": 1121,
       "nameJP": "スズメ（ニューイヤー）"
     },
     {
@@ -845,7 +845,7 @@
       "portraitPath": "/assets/portrait/magicalgirl/kasumi.png",
       "position": "back",
       "role": "support",
-      "id": 112201,
+      "id": 1122,
       "nameJP": "カスミ（マジカル）"
     },
     {
@@ -853,7 +853,7 @@
       "portraitPath": "/assets/portrait/magicalgirl/shiori.png",
       "position": "back",
       "role": "support",
-      "id": 112301,
+      "id": 1123,
       "nameJP": "シオリ（マジカル）"
     },
     {
@@ -861,7 +861,7 @@
       "portraitPath": "/assets/portrait/deremas/uzuki.png",
       "position": "mid",
       "role": "physical",
-      "id": 112401,
+      "id": 1124,
       "nameJP": "ウヅキ（デレマス）"
     },
     {
@@ -869,7 +869,7 @@
       "portraitPath": "/assets/portrait/deremas/rin.png",
       "position": "front",
       "role": "tank",
-      "id": 112501,
+      "id": 1125,
       "nameJP": "リン（デレマス）"
     },
     {
@@ -877,7 +877,7 @@
       "portraitPath": "/assets/portrait/deremas/mio.png",
       "position": "back",
       "role": "magic",
-      "id": 112601,
+      "id": 1126,
       "nameJP": "ミオ（デレマス）"
     },
     {
@@ -885,7 +885,7 @@
       "portraitPath": "/assets/portrait/ranger/rin.png",
       "position": "mid",
       "role": "physical",
-      "id": 112701,
+      "id": 1127,
       "nameJP": "リン（レンジャー）"
     },
     {
@@ -893,7 +893,7 @@
       "portraitPath": "/assets/portrait/ranger/mahiru.png",
       "position": "mid",
       "role": "physical",
-      "id": 112801,
+      "id": 1128,
       "nameJP": "マヒル（レンジャー）"
     },
     {
@@ -901,7 +901,7 @@
       "portraitPath": "/assets/portrait/wonderland/rino.png",
       "position": "back",
       "role": "physical",
-      "id": 112901,
+      "id": 1129,
       "nameJP": "リノ（ワンダー）"
     },
     {
@@ -909,7 +909,7 @@
       "portraitPath": "/assets/portrait/wonderland/ayumi.png",
       "position": "mid",
       "role": "support",
-      "id": 113001,
+      "id": 1130,
       "nameJP": "アユミ（ワンダー）"
     },
     {
@@ -917,7 +917,7 @@
       "portraitPath": "/assets/portrait/summer/ruka.png",
       "position": "front",
       "role": "physical",
-      "id": 113101,
+      "id": 1131,
       "nameJP": "ルカ（サマー）"
     },
     {
@@ -925,7 +925,7 @@
       "portraitPath": "/assets/portrait/summer/anna.png",
       "position": "front",
       "role": "magic",
-      "id": 113201,
+      "id": 1132,
       "nameJP": "アンナ（サマー）"
     },
     {
@@ -933,15 +933,31 @@
       "portraitPath": "/assets/portrait/summer/nanaka.png",
       "position": "mid",
       "role": "magic",
-      "id": 113301,
+      "id": 1133,
       "nameJP": "ナナカ（サマー）"
+    },
+    {
+      "name": "Summer Hatsune",
+      "portraitPath": "/assets/portrait/summer/hatsune.png",
+      "position": "mid",
+      "role": "magic",
+      "id": 1134,
+      "nameJP": "ハツネ（サマー）"
+    },
+    {
+      "name": "Summer Misato",
+      "portraitPath": "/assets/portrait/summer/misato.png",
+      "position": "back",
+      "role": "support",
+      "id": 1135,
+      "nameJP": "ハツネ（サマー）"
     },
     {
       "name": "Princess Yui",
       "portraitPath": "/assets/portrait/princess/yui.png",
       "position": "back",
       "role": "magic",
-      "id": 180201,
+      "id": 1802,
       "nameJP": "ユイ（プリンセス）"
     },
     {
@@ -949,7 +965,7 @@
       "portraitPath": "/assets/portrait/princess/pecorine.png",
       "position": "front",
       "role": "tank",
-      "id": 180401,
+      "id": 1804,
       "nameJP": "ペコリーヌ（プリンセス）"
     },
     {
@@ -957,7 +973,7 @@
       "portraitPath": "/assets/portrait/princess/kokkoro.png",
       "position": "mid",
       "role": "support",
-      "id": 180501,
+      "id": 1805,
       "nameJP": "コッコロ（プリンセス）"
     }
   ]
