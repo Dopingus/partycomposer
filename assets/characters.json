@@ -7,7 +7,8 @@
       "role": "physical",
       "id": 1001,
       "nameJP": "ヒヨリ",
-      "maxAscensionLevel": "6"
+      "maxAscensionLevel": "6",
+      "formation": 1350
     },
     {
       "name": "Yui",
@@ -16,7 +17,8 @@
       "role": "heal",
       "id": 1002,
       "nameJP": "ユイ",
-      "maxAscensionLevel": "6"
+      "maxAscensionLevel": "6",
+      "formation": 3370
     },
     {
       "name": "Rei",
@@ -25,7 +27,8 @@
       "role": "physical",
       "id": 1003,
       "nameJP": "レイ",
-      "maxAscensionLevel": "6"
+      "maxAscensionLevel": "6",
+      "formation": 1480
     },
     {
       "name": "Misogi",
@@ -34,7 +37,8 @@
       "role": "debuff",
       "id": 1004,
       "nameJP": "ミソギ",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 1350
     },
     {
       "name": "Matsuri",
@@ -43,7 +47,8 @@
       "role": "physical",
       "id": 1005,
       "nameJP": "マツリ",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 1250
     },
     {
       "name": "Akari",
@@ -52,7 +57,8 @@
       "role": "support",
       "id": 1006,
       "nameJP": "アカリ",
-      "maxAscensionLevel": "6"
+      "maxAscensionLevel": "6",
+      "formation": 2390
     },
     {
       "name": "Miyako",
@@ -61,7 +67,8 @@
       "role": "tank",
       "id": 1007,
       "nameJP": "ミヤコ",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 1020
     },
     {
       "name": "Yuki",
@@ -70,7 +77,8 @@
       "role": "support",
       "id": 1008,
       "nameJP": "ユキ",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 3380
     },
     {
       "name": "Anna",
@@ -79,7 +87,8 @@
       "role": "magic",
       "id": 1009,
       "nameJP": "アンナ",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 2200
     },
     {
       "name": "Maho",
@@ -88,7 +97,8 @@
       "role": "heal",
       "id": 1010,
       "nameJP": "マホ",
-      "maxAscensionLevel": "6"
+      "maxAscensionLevel": "6",
+      "formation": 3360
     },
     {
       "name": "Rino",
@@ -97,7 +107,8 @@
       "role": "physical",
       "id": 1011,
       "nameJP": "リノ",
-      "maxAscensionLevel": "6"
+      "maxAscensionLevel": "6",
+      "formation": 3090
     },
     {
       "name": "Hatsune",
@@ -106,7 +117,8 @@
       "role": "magic",
       "id": 1012,
       "nameJP": "ハツネ",
-      "maxAscensionLevel": "6"
+      "maxAscensionLevel": "6",
+      "formation": 3260
     },
     {
       "name": "Nanaka",
@@ -115,7 +127,8 @@
       "role": "magic",
       "id": 1013,
       "nameJP": "ナナカ",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 3230
     },
     {
       "name": "Kasumi",
@@ -124,7 +137,8 @@
       "role": "debuff",
       "id": 1014,
       "nameJP": "カスミ",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 3190
     },
     {
       "name": "Misato",
@@ -133,7 +147,8 @@
       "role": "heal",
       "id": 1015,
       "nameJP": "ミサト",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 3220
     },
     {
       "name": "Suzuna",
@@ -142,7 +157,8 @@
       "role": "physical",
       "id": 1016,
       "nameJP": "スズナ",
-      "maxAscensionLevel": "6"
+      "maxAscensionLevel": "6",
+      "formation": 3100
     },
     {
       "name": "Kaori",
@@ -151,7 +167,8 @@
       "role": "physical",
       "id": 1017,
       "nameJP": "カオリ",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 1070
     },
     {
       "name": "Io",
@@ -160,7 +177,8 @@
       "role": "debuff",
       "id": 1018,
       "nameJP": "イオ",
-      "maxAscensionLevel": "6"
+      "maxAscensionLevel": "6",
+      "formation": 3140
     },
     {
       "name": "Mimi",
@@ -169,7 +187,8 @@
       "role": "physical",
       "id": 1020,
       "nameJP": "ミミ",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 2010
     },
     {
       "name": "Kurumi",
@@ -178,7 +197,8 @@
       "role": "support",
       "id": 1021,
       "nameJP": "クルミ",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 1440
     },
     {
       "name": "Yori",
@@ -187,7 +207,8 @@
       "role": "magic",
       "id": 1022,
       "nameJP": "ヨリ",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 2400
     },
     {
       "name": "Ayane",
@@ -196,7 +217,8 @@
       "role": "support",
       "id": 1023,
       "nameJP": "アヤネ",
-      "maxAscensionLevel": "6"
+      "maxAscensionLevel": "6",
+      "formation": 1360
     },
     {
       "name": "Suzume",
@@ -205,7 +227,8 @@
       "role": "support",
       "id": 1025,
       "nameJP": "スズメ",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 3160
     },
     {
       "name": "Rin",
@@ -214,7 +237,8 @@
       "role": "physical",
       "id": 1026,
       "nameJP": "リン",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 2340
     },
     {
       "name": "Eriko",
@@ -223,7 +247,8 @@
       "role": "physical",
       "id": 1027,
       "nameJP": "エリコ",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 1420
     },
     {
       "name": "Saren",
@@ -232,7 +257,8 @@
       "role": "support",
       "id": 1028,
       "nameJP": "サレン",
-      "maxAscensionLevel": "6"
+      "maxAscensionLevel": "6",
+      "formation": 2190
     },
     {
       "name": "Nozomi",
@@ -241,7 +267,8 @@
       "role": "tank",
       "id": 1029,
       "nameJP": "ノゾミ",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 1160
     },
     {
       "name": "Ninon",
@@ -250,7 +277,8 @@
       "role": "physical",
       "id": 1030,
       "nameJP": "ニノン",
-      "maxAscensionLevel": "6"
+      "maxAscensionLevel": "6",
+      "formation": 2130
     },
     {
       "name": "Shinobu",
@@ -259,7 +287,8 @@
       "role": "debuff",
       "id": 1031,
       "nameJP": "シノブ",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 2020
     },
     {
       "name": "Akino",
@@ -268,7 +297,8 @@
       "role": "physical",
       "id": 1032,
       "nameJP": "アキノ",
-      "maxAscensionLevel": "6"
+      "maxAscensionLevel": "6",
+      "formation": 1220
     },
     {
       "name": "Mahiru",
@@ -277,7 +307,8 @@
       "role": "physical",
       "id": 1033,
       "nameJP": "マヒル",
-      "maxAscensionLevel": "6"
+      "maxAscensionLevel": "6",
+      "formation": 2080
     },
     {
       "name": "Yukari",
@@ -286,7 +317,8 @@
       "role": "support",
       "id": 1034,
       "nameJP": "ユカリ",
-      "maxAscensionLevel": "6"
+      "maxAscensionLevel": "6",
+      "formation": 2100
     },
     {
       "name": "Kyouka",
@@ -295,7 +327,8 @@
       "role": "magic",
       "id": 1036,
       "nameJP": "キョウカ",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 3400
     },
     {
       "name": "Tomo",
@@ -304,7 +337,8 @@
       "role": "physical",
       "id": 1037,
       "nameJP": "トモ",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 1390
     },
     {
       "name": "Shiori",
@@ -313,7 +347,8 @@
       "role": "physical",
       "id": 1038,
       "nameJP": "シオリ",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 3120
     },
     {
       "name": "Aoi",
@@ -322,7 +357,8 @@
       "role": "debuff",
       "id": 1040,
       "nameJP": "アオイ",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 3330
     },
     {
       "name": "Chika",
@@ -331,7 +367,8 @@
       "role": "heal",
       "id": 1042,
       "nameJP": "チカ",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 3340
     },
     {
       "name": "Makoto",
@@ -340,7 +377,8 @@
       "role": "physical",
       "id": 1043,
       "nameJP": "マコト",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 1180
     },
     {
       "name": "Ilya",
@@ -349,7 +387,8 @@
       "role": "magic",
       "id": 1044,
       "nameJP": "イリヤ",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 2170
     },
     {
       "name": "Kuuka",
@@ -358,7 +397,8 @@
       "role": "tank",
       "id": 1045,
       "nameJP": "クウカ",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 1030
     },
     {
       "name": "Tamaki",
@@ -367,7 +407,8 @@
       "role": "physical",
       "id": 1046,
       "nameJP": "タマキ",
-      "maxAscensionLevel": "6"
+      "maxAscensionLevel": "6",
+      "formation": 1380
     },
     {
       "name": "Jun",
@@ -376,7 +417,8 @@
       "role": "tank",
       "id": 1047,
       "nameJP": "ジュン",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 1040
     },
     {
       "name": "Mifuyu",
@@ -385,7 +427,8 @@
       "role": "physical",
       "id": 1048,
       "nameJP": "ミフユ",
-      "maxAscensionLevel": "6"
+      "maxAscensionLevel": "6",
+      "formation": 2150
     },
     {
       "name": "Shizuru",
@@ -394,7 +437,8 @@
       "role": "support",
       "id": 1049,
       "nameJP": "シズル",
-      "maxAscensionLevel": "6"
+      "maxAscensionLevel": "6",
+      "formation": 1510
     },
     {
       "name": "Misaki",
@@ -403,7 +447,8 @@
       "role": "magic",
       "id": 1050,
       "nameJP": "ミサキ",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 3270
     },
     {
       "name": "Mitsuki",
@@ -412,7 +457,8 @@
       "role": "debuff",
       "id": 1051,
       "nameJP": "ミツキ",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 2370
     },
     {
       "name": "Rima",
@@ -421,7 +467,8 @@
       "role": "tank",
       "id": 1052,
       "nameJP": "リマ",
-      "maxAscensionLevel": "6"
+      "maxAscensionLevel": "6",
+      "formation": 1010
     },
     {
       "name": "Monika",
@@ -430,7 +477,8 @@
       "role": "support",
       "id": 1053,
       "nameJP": "モニカ",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 2120
     },
     {
       "name": "Tsumugi",
@@ -439,7 +487,8 @@
       "role": "physical",
       "id": 1054,
       "nameJP": "ツムギ",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 1310
     },
     {
       "name": "Ayumi",
@@ -448,7 +497,8 @@
       "role": "support",
       "id": 1055,
       "nameJP": "アユミ",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 2260
     },
     {
       "name": "Ruka",
@@ -457,7 +507,8 @@
       "role": "tank",
       "id": 1056,
       "nameJP": "ルカ",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 1140
     },
     {
       "name": "Djeeta",
@@ -466,7 +517,8 @@
       "role": "physical",
       "id": 1057,
       "nameJP": "ジータ",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 1450
     },
     {
       "name": "Pecorine",
@@ -475,7 +527,8 @@
       "role": "tank",
       "id": 1058,
       "nameJP": "ペコリーヌ",
-      "maxAscensionLevel": "6"
+      "maxAscensionLevel": "6",
+      "formation": 1120
     },
     {
       "name": "Kokkoro",
@@ -484,7 +537,8 @@
       "role": "support",
       "id": 1059,
       "nameJP": "コッコロ",
-      "maxAscensionLevel": "6"
+      "maxAscensionLevel": "6",
+      "formation": 2240
     },
     {
       "name": "Kyaru",
@@ -493,7 +547,8 @@
       "role": "magic",
       "id": 1060,
       "nameJP": "キャル",
-      "maxAscensionLevel": "6"
+      "maxAscensionLevel": "6",
+      "formation": 3250
     },
     {
       "name": "Muimi",
@@ -502,7 +557,8 @@
       "role": "physical",
       "id": 1061,
       "nameJP": "ムイミ",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 1170
     },
     {
       "name": "Arisa",
@@ -511,7 +567,8 @@
       "role": "physical",
       "id": 1063,
       "nameJP": "アリサ",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 3010
     },
     {
       "name": "Kaya",
@@ -520,7 +577,8 @@
       "role": "physical",
       "id": 1065,
       "nameJP": "カヤ",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 1190
     },
     {
       "name": "Inori",
@@ -529,7 +587,18 @@
       "role": "physical",
       "id": 1066,
       "nameJP": "イノリ",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 1320
+    },
+    {
+      "name": "Labyrista",
+      "portraitPath": "/assets/portrait/labyrista.png",
+      "position": "mid",
+      "role": "support",
+      "id": 1068,
+      "nameJP": "ラビリスタ",
+      "maxAscensionLevel": "5",
+      "formation": 2360
     },
     {
       "name": "Neneka",
@@ -538,7 +607,8 @@
       "role": "magic",
       "id": 1070,
       "nameJP": "ネネカ",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 3040
     },
     {
       "name": "Christina",
@@ -547,7 +617,8 @@
       "role": "physical",
       "id": 1071,
       "nameJP": "クリスティーナ",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 1520
     },
     {
       "name": "Summer Pecorine",
@@ -556,7 +627,8 @@
       "role": "physical",
       "id": 1075,
       "nameJP": "ペコリーヌ（サマー）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 1430
     },
     {
       "name": "Summer Kokkoro",
@@ -565,7 +637,8 @@
       "role": "support",
       "id": 1076,
       "nameJP": "コッコロ（サマー）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 2310
     },
     {
       "name": "Summer Suzume",
@@ -574,7 +647,8 @@
       "role": "support",
       "id": 1077,
       "nameJP": "スズメ（サマー）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 3310
     },
     {
       "name": "Summer Kyaru",
@@ -583,7 +657,8 @@
       "role": "magic",
       "id": 1078,
       "nameJP": "キャル（サマー）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 3320
     },
     {
       "name": "Summer Tamaki",
@@ -592,7 +667,8 @@
       "role": "physical",
       "id": 1079,
       "nameJP": "タマキ（サマー）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 1410
     },
     {
       "name": "Summer Mifuyu",
@@ -601,7 +677,8 @@
       "role": "physical",
       "id": 1080,
       "nameJP": "ミフユ（サマー）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 2230
     },
     {
       "name": "Halloween Shinobu",
@@ -610,7 +687,8 @@
       "role": "physical",
       "id": 1081,
       "nameJP": "シノブ（ハロウィン）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 2210
     },
     {
       "name": "Halloween Miyako",
@@ -619,7 +697,8 @@
       "role": "physical",
       "id": 1082,
       "nameJP": "ミヤコ（ハロウィン）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 2420
     },
     {
       "name": "Halloween Misaki",
@@ -628,7 +707,8 @@
       "role": "debuff",
       "id": 1083,
       "nameJP": "ミサキ（ハロウィン）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 3410
     },
     {
       "name": "Christmas Chika",
@@ -637,7 +717,8 @@
       "role": "support",
       "id": 1084,
       "nameJP": "チカ（クリスマス）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 3300
     },
     {
       "name": "Christmas Kurumi",
@@ -646,7 +727,8 @@
       "role": "support",
       "id": 1085,
       "nameJP": "クルミ（クリスマス）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 1530
     },
     {
       "name": "Christmas Ayane",
@@ -655,7 +737,8 @@
       "role": "physical",
       "id": 1086,
       "nameJP": "アヤネ（クリスマス）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 1290
     },
     {
       "name": "New Year Hiyori",
@@ -664,7 +747,8 @@
       "role": "physical",
       "id": 1087,
       "nameJP": "ヒヨリ（ニューイヤー）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 1200
     },
     {
       "name": "New Year Yui",
@@ -673,7 +757,8 @@
       "role": "support",
       "id": 1088,
       "nameJP": "ユイ（ニューイヤー）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 3240
     },
     {
       "name": "New Year Rei",
@@ -682,7 +767,8 @@
       "role": "physical",
       "id": 1089,
       "nameJP": "レイ（ニューイヤー）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 1100
     },
     {
       "name": "Valentine Eriko",
@@ -691,7 +777,8 @@
       "role": "physical",
       "id": 1090,
       "nameJP": "エリコ（バレンタイン）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 1270
     },
     {
       "name": "Valentine Shizuru",
@@ -700,7 +787,8 @@
       "role": "support",
       "id": 1091,
       "nameJP": "シズル（バレンタイン）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 2060
     },
     {
       "name": "Anne",
@@ -709,7 +797,8 @@
       "role": "magic",
       "id": 1092,
       "nameJP": "アン",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 3020
     },
     {
       "name": "Lou",
@@ -718,7 +807,8 @@
       "role": "magic",
       "id": 1093,
       "nameJP": "ルゥ",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 3030
     },
     {
       "name": "Grea",
@@ -727,7 +817,8 @@
       "role": "magic",
       "id": 1094,
       "nameJP": "グレア",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 2270
     },
     {
       "name": "Oedo Kuuka",
@@ -736,7 +827,8 @@
       "role": "tank",
       "id": 1095,
       "nameJP": "クウカ（オーエド）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 1060
     },
     {
       "name": "Oedo Ninon",
@@ -745,7 +837,8 @@
       "role": "physical",
       "id": 1096,
       "nameJP": "ニノン（オーエド）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 1210
     },
     {
       "name": "Rem",
@@ -754,7 +847,8 @@
       "role": "physical",
       "id": 1097,
       "nameJP": "レム",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 2320
     },
     {
       "name": "Ram",
@@ -763,7 +857,8 @@
       "role": "magic",
       "id": 1098,
       "nameJP": "ラム",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 2330
     },
     {
       "name": "Emilia",
@@ -772,7 +867,8 @@
       "role": "support",
       "id": 1099,
       "nameJP": "エミリア",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 3180
     },
     {
       "name": "Summer Suzuna",
@@ -781,7 +877,8 @@
       "role": "physical",
       "id": 1100,
       "nameJP": "スズナ（サマー）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 3110
     },
     {
       "name": "Summer Io",
@@ -790,7 +887,8 @@
       "role": "debuff",
       "id": 1101,
       "nameJP": "イオ（サマー）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 3150
     },
     {
       "name": "Summer Saren",
@@ -799,7 +897,8 @@
       "role": "support",
       "id": 1103,
       "nameJP": "サレン（サマー）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 2410
     },
     {
       "name": "Summer Makoto",
@@ -808,7 +907,8 @@
       "role": "physical",
       "id": 1104,
       "nameJP": "マコト（サマー）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 1230
     },
     {
       "name": "Summer Kaori",
@@ -817,7 +917,8 @@
       "role": "physical",
       "id": 1105,
       "nameJP": "カオリ（サマー）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 2180
     },
     {
       "name": "Summer Maho",
@@ -826,7 +927,8 @@
       "role": "magic",
       "id": 1106,
       "nameJP": "マホ（サマー）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 3350
     },
     {
       "name": "Transfer Student Aoi",
@@ -835,7 +937,8 @@
       "role": "physical",
       "id": 1107,
       "nameJP": "アオイ（編入生）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 3050
     },
     {
       "name": "Chloe",
@@ -844,7 +947,8 @@
       "role": "physical",
       "id": 1108,
       "nameJP": "クロエ",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 1260
     },
     {
       "name": "Chieru",
@@ -853,7 +957,8 @@
       "role": "physical",
       "id": 1109,
       "nameJP": "チエル",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 1400
     },
     {
       "name": "Yuni",
@@ -862,8 +967,19 @@
       "role": "support",
       "id": 1110,
       "nameJP": "ユニ",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 3390
     },
+    {
+      "name": "Halloween Kyouka",
+      "portraitPath": "/assets/portrait/halloween/kyouka.png",
+      "position": "back",
+      "role": "support",
+      "id": 1111,
+      "nameJP": "キョウカ（ハロウィン）",
+      "maxAscensionLevel": "5",
+      "formation": 3420
+    }
     {
       "name": "Halloween Misogi",
       "portraitPath": "/assets/portrait/halloween/misogi.png",
@@ -871,7 +987,8 @@
       "role": "physical",
       "id": 1112,
       "nameJP": "ミソギ（ハロウィン）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 1370
     },
     {
       "name": "Halloween Mimi",
@@ -880,7 +997,8 @@
       "role": "physical",
       "id": 1113,
       "nameJP": "ミミ（ハロウィン）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 2030
     },
     {
       "name": "Luna",
@@ -889,7 +1007,8 @@
       "role": "magic",
       "id": 1114,
       "nameJP": "ルナ",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 3280
     },
     {
       "name": "Christmas Christina",
@@ -898,7 +1017,8 @@
       "role": "physical",
       "id": 1115,
       "nameJP": "クリスティーナ（クリスマス）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 1500
     },
     {
       "name": "Christmas Nozomi",
@@ -907,7 +1027,8 @@
       "role": "tank",
       "id": 1116,
       "nameJP": "ノゾミ（クリスマス）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 2140
     },
     {
       "name": "Christmas Ilya",
@@ -916,7 +1037,18 @@
       "role": "magic",
       "id": 1117,
       "nameJP": "イリヤ（クリスマス）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 1480
+    },
+    {
+      "name": "New Year Pecorine",
+      "portraitPath": "/assets/portrait/newyear/pecorine.png",
+      "position": "front",
+      "role": "support",
+      "id": 1118,
+      "nameJP": "ペコリーヌ（ニューイヤー）",
+      "maxAscensionLevel": "5",
+      "formation": 1470
     },
     {
       "name": "New Year Kokkoro",
@@ -925,7 +1057,8 @@
       "role": "support",
       "id": 1119,
       "nameJP": "コッコロ（ニューイヤー）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 1150
     },
     {
       "name": "New Year Kyaru",
@@ -934,7 +1067,8 @@
       "role": "magic",
       "id": 1120,
       "nameJP": "キャル（ニューイヤー）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 3060
     },
     {
       "name": "New Year Suzume",
@@ -943,7 +1077,8 @@
       "role": "support",
       "id": 1121,
       "nameJP": "スズメ（ニューイヤー）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 3170
     },
     {
       "name": "Magical Girl Kasumi",
@@ -952,7 +1087,8 @@
       "role": "support",
       "id": 1122,
       "nameJP": "カスミ（マジカル）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 3200
     },
     {
       "name": "Magical Girl Shiori",
@@ -961,7 +1097,8 @@
       "role": "support",
       "id": 1123,
       "nameJP": "シオリ（マジカル）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 3130
     },
     {
       "name": "Uzuki (Deremas)",
@@ -970,7 +1107,8 @@
       "role": "physical",
       "id": 1124,
       "nameJP": "ウヅキ（デレマス）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 2040
     },
     {
       "name": "Rin (Deremas)",
@@ -979,7 +1117,8 @@
       "role": "tank",
       "id": 1125,
       "nameJP": "リン（デレマス）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 1110
     },
     {
       "name": "Mio (Deremas)",
@@ -988,7 +1127,8 @@
       "role": "magic",
       "id": 1126,
       "nameJP": "ミオ（デレマス）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 3070
     },
     {
       "name": "Ranger Rin",
@@ -997,7 +1137,8 @@
       "role": "physical",
       "id": 1127,
       "nameJP": "リン（レンジャー）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 2160
     },
     {
       "name": "Ranger Mahiru",
@@ -1006,7 +1147,8 @@
       "role": "physical",
       "id": 1128,
       "nameJP": "マヒル（レンジャー）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 2070
     },
     {
       "name": "Wonderland Rino",
@@ -1015,7 +1157,8 @@
       "role": "physical",
       "id": 1129,
       "nameJP": "リノ（ワンダー）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 3210
     },
     {
       "name": "Wonderland Ayumi",
@@ -1024,7 +1167,8 @@
       "role": "support",
       "id": 1130,
       "nameJP": "アユミ（ワンダー）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 2250
     },
     {
       "name": "Summer Ruka",
@@ -1033,7 +1177,8 @@
       "role": "physical",
       "id": 1131,
       "nameJP": "ルカ（サマー）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 1300
     },
     {
       "name": "Summer Anna",
@@ -1042,7 +1187,8 @@
       "role": "magic",
       "id": 1132,
       "nameJP": "アンナ（サマー）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 1490
     },
     {
       "name": "Summer Nanaka",
@@ -1051,7 +1197,8 @@
       "role": "magic",
       "id": 1133,
       "nameJP": "ナナカ（サマー）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 2220
     },
     {
       "name": "Summer Hatsune",
@@ -1060,7 +1207,8 @@
       "role": "magic",
       "id": 1134,
       "nameJP": "ハツネ（サマー）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 2380
     },
     {
       "name": "Summer Misato",
@@ -1069,7 +1217,138 @@
       "role": "support",
       "id": 1135,
       "nameJP": "ハツネ（サマー）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 3080
+    },
+    {
+      "name": "Summer Jun",
+      "portraitPath": "/assets/portrait/summer/jun.png",
+      "position": "front",
+      "role": "physical",
+      "id": 1136,
+      "nameJP": "ジュン（サマー）",
+      "maxAscensionLevel": "5",
+      "formation": 1240
+    },
+    {
+      "name": "Angel Akari",
+      "portraitPath": "/assets/portrait/angel/akari.png",
+      "position": "mid",
+      "role": "magical",
+      "id": 1137,
+      "nameJP": "アカリ（エンジェル）",
+      "maxAscensionLevel": "5",
+      "formation": 1290
+    },
+    {
+      "name": "Angel Yori",
+      "portraitPath": "/assets/portrait/angel/yori.png",
+      "position": "mid",
+      "role": "support",
+      "id": 1138,
+      "nameJP": "ヨリ（エンジェル）",
+      "maxAscensionLevel": "5",
+      "formation": 1300
+    },
+    {
+      "name": "Halloween Tsumugi",
+      "portraitPath": "/assets/portrait/halloween/tsumugi.png",
+      "position": "front",
+      "role": "tank",
+      "id": 1139,
+      "nameJP": "ツムギ（ハロウィン）",
+      "maxAscensionLevel": "5",
+      "formation": 1090
+    },
+    {
+      "name": "Halloween Rei",
+      "portraitPath": "/assets/portrait/halloween/rei.png",
+      "position": "mid",
+      "role": "physical",
+      "id": 1140,
+      "nameJP": "レイ（ハロウィン）",
+      "maxAscensionLevel": "5",
+      "formation": 2050
+    },
+    {
+      "name": "Halloween Matsuri",
+      "portraitPath": "/assets/portrait/halloween/matsuri.png",
+      "position": "front",
+      "role": "physical",
+      "id": 1141,
+      "nameJP": "マツリ（ハロウィン）",
+      "maxAscensionLevel": "5",
+      "formation": 1270
+    },
+    {
+      "name": "Magical Girl Monika",
+      "portraitPath": "/assets/portrait/magicalgirl/monika.png",
+      "position": "mid",
+      "role": "support",
+      "id": 1142,
+      "nameJP": "モニカ（マジカル）",
+      "maxAscensionLevel": "5",
+      "formation": 2280
+    },
+    {
+      "name": "Magical Girl Tomo",
+      "portraitPath": "/assets/portrait/magicalgirl/tomo.png",
+      "position": "mid",
+      "role": "physical",
+      "id": 1143,
+      "nameJP": "トモ（マジカル）",
+      "maxAscensionLevel": "5",
+      "formation": 2090
+    },
+    {
+      "name": "Christmas Akino",
+      "portraitPath": "/assets/portrait/christmas/akino.png",
+      "position": "front",
+      "role": "physical",
+      "id": 1144,
+      "nameJP": "アキノ（クリスマス）",
+      "maxAscensionLevel": "5",
+      "formation": 1290
+    },
+    {
+      "name": "Christmas Saren",
+      "portraitPath": "/assets/portrait/christmas/saren.png",
+      "position": "front",
+      "role": "support",
+      "id": 1145,
+      "nameJP": "サレン（クリスマス）",
+      "maxAscensionLevel": "5",
+      "formation": 1080
+    },
+    {
+      "name": "Christmas Yukari",
+      "portraitPath": "/assets/portrait/christmas/yukari.png",
+      "position": "mid",
+      "role": "support",
+      "id": 1146,
+      "nameJP": "ユカリ（クリスマス）",
+      "maxAscensionLevel": "5",
+      "formation": 2110
+    },
+    {
+      "name": "New Year Muimi",
+      "portraitPath": "/assets/portrait/newyear/muimi.png",
+      "position": "front",
+      "role": "physical",
+      "id": 1147,
+      "nameJP": "ムイミ（ニューイヤー）",
+      "maxAscensionLevel": "5",
+      "formation": 1050
+    },
+    {
+      "name": "Princess Hiyori",
+      "portraitPath": "/assets/portrait/princess/hiyori.png",
+      "position": "front",
+      "role": "physical",
+      "id": 1801,
+      "nameJP": "ヒヨリ（プリンセス）",
+      "maxAscensionLevel": "5",
+      "formation": 1340
     },
     {
       "name": "Princess Yui",
@@ -1078,7 +1357,8 @@
       "role": "magic",
       "id": 1802,
       "nameJP": "ユイ（プリンセス）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 3290
     },
     {
       "name": "Princess Pecorine",
@@ -1087,7 +1367,8 @@
       "role": "tank",
       "id": 1804,
       "nameJP": "ペコリーヌ（プリンセス）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 1130
     },
     {
       "name": "Princess Kokkoro",
@@ -1096,7 +1377,8 @@
       "role": "support",
       "id": 1805,
       "nameJP": "コッコロ（プリンセス）",
-      "maxAscensionLevel": "5"
+      "maxAscensionLevel": "5",
+      "formation": 2350
     }
   ]
 }
