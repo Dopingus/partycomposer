@@ -228,7 +228,7 @@
       "damageType": "magical",
       "id": "1022",
       "nameJP": "ヨリ",
-      "maxAscensionLevel": "5",
+      "maxAscensionLevel": "6",
       "formation": 2400
     },
     {
@@ -626,6 +626,17 @@
       "nameJP": "アリサ",
       "maxAscensionLevel": "5",
       "formation": 3010
+    },
+    {
+      "name": "Shefi",
+      "portraitPath": "/assets/portrait/shefi.png",
+      "position": "mid",
+      "roles": ["attacker", "supporter"],
+      "damageType": "physical",
+      "id": "1064",
+      "nameJP": "シェフィ",
+      "maxAscensionLevel": "5",
+      "formation": 2035
     },
     {
       "name": "Kaya",
@@ -1362,7 +1373,7 @@
       "id": "1137",
       "nameJP": "アカリ（エンジェル）",
       "maxAscensionLevel": "5",
-      "formation": 1290
+      "formation": 2290
     },
     {
       "name": "Angel Yori",
@@ -1373,7 +1384,7 @@
       "id": "1138",
       "nameJP": "ヨリ（エンジェル）",
       "maxAscensionLevel": "5",
-      "formation": 1300
+      "formation": 2300
     },
     {
       "name": "Halloween Tsumugi",
@@ -1473,6 +1484,39 @@
       "nameJP": "ムイミ（ニューイヤー）",
       "maxAscensionLevel": "5",
       "formation": 1050
+    },
+    {
+      "name": "New Year Neneka",
+      "portraitPath": "/assets/portrait/newyear/neneka.png",
+      "position": "mid",
+      "roles": ["supporter"],
+      "damageType": "magical",
+      "id": "1150",
+      "nameJP": "ネネカ（ニューイヤー）",
+      "maxAscensionLevel": "5",
+      "formation": 2365
+    },
+    {
+      "name": "Kokkoro Ceremonial Dress",
+      "portraitPath": "/assets/portrait/ceremonial/kokkoro.png",
+      "position": "mid",
+      "roles": ["attacker"],
+      "damageType": "physical",
+      "id": "1155",
+      "nameJP": "コッコロ（儀装束）",
+      "maxAscensionLevel": "5",
+      "formation": 2305
+    },
+    {
+      "name": "Yui Ceremonial Dress",
+      "portraitPath": "/assets/portrait/ceremonial/yui.png",
+      "position": "mid",
+      "roles": ["supporter"],
+      "damageType": "magical",
+      "id": "1156",
+      "nameJP": "ユイ（儀装束）",
+      "maxAscensionLevel": "5",
+      "formation": 2405
     },
     {
       "name": "Princess Hiyori",
