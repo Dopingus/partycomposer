@@ -19,6 +19,7 @@
 		{ "color": "purple", "level": 17 },
 		{ "color": "red", "level": 18 },
 		{ "color": "red", "level": 19 },
-		{ "color": "red", "level": 20 }
+		{ "color": "red", "level": 20 },
+		{ "color": "green", "level": 21 }
 	]
 }

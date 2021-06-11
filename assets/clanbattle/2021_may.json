@@ -1,0 +1,26 @@
+{
+	"year": 2021,
+	"month": "May",
+	"bosses": [
+		{
+			"name": "Wyvern",
+			"image": "302102"
+		},
+		{
+			"name": "Landsloth",
+			"image": "309001"
+		},
+		{
+			"name": "Orc Chief",
+			"image": "300702"
+		},
+		{
+			"name": "Spirit Horn",
+			"image": "300802"
+		},
+		{
+			"name": "Twin Pigs",
+			"image": "302600"
+		}
+	]
+}
