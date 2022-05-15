@@ -20,6 +20,10 @@
 		{ "color": "red", "level": 18 },
 		{ "color": "red", "level": 19 },
 		{ "color": "red", "level": 20 },
-		{ "color": "green", "level": 21 }
+		{ "color": "green", "level": 21 },
+		{ "color": "green", "level": 22 },
+		{ "color": "green", "level": 23 },
+		{ "color": "orange", "level": 24 },
+		{ "color": "orange", "level": 25 }
 	]
 }
