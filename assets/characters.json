@@ -3037,6 +3037,38 @@
             "portraitPath": "/assets/portraitsId/icon_unit_122631.png"
         },
         {
+            "id": "1228",
+            "originalId": 122801,
+            "name": "Misogi (Summer)",
+            "nameJP": "ミソギ（サマー）",
+            "kanaName": "みそぎ",
+            "damageType": "physical",
+            "baseImage": "/assets/portraitsId/icon_unit_122811.png",
+            "threeStarImage": "/assets/portraitsId/icon_unit_122831.png",
+            "searchArea": 237,
+            "roles": [],
+            "position": "front",
+            "maxAscensionLevel": "5",
+            "formation": 237,
+            "portraitPath": "/assets/portraitsId/icon_unit_122831.png"
+        },
+        {
+            "id": "1229",
+            "originalId": 122901,
+            "name": "Mimi (Summer)",
+            "nameJP": "ミミ（サマー）",
+            "kanaName": "みみ",
+            "damageType": "physical",
+            "baseImage": "/assets/portraitsId/icon_unit_122911.png",
+            "threeStarImage": "/assets/portraitsId/icon_unit_122931.png",
+            "searchArea": 361,
+            "roles": [],
+            "position": "front",
+            "maxAscensionLevel": "5",
+            "formation": 361,
+            "portraitPath": "/assets/portraitsId/icon_unit_122931.png"
+        },
+        {
             "id": "1801",
             "originalId": 180101,
             "name": "Hiyori (Princess)",
