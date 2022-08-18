@@ -3038,6 +3038,22 @@
             "portraitPath": "/assets/portraitsId/icon_unit_122631.png"
         },
         {
+            "id": "1227",
+            "originalId": 122701,
+            "name": "Kyouka (Summer)",
+            "nameJP": "キョウカ（サマー）",
+            "kanaName": "きょうか",
+            "damageType": "magical",
+            "baseImage": "/assets/portraitsId/icon_unit_122711.png",
+            "threeStarImage": "/assets/portraitsId/icon_unit_122731.png",
+            "searchArea": 812,
+            "roles": [],
+            "position": "back",
+            "maxAscensionLevel": "5",
+            "formation": 812,
+            "portraitPath": "/assets/portraitsId/icon_unit_122731.png"
+        },
+        {
             "id": "1228",
             "originalId": 122801,
             "name": "Misogi (Summer)",
