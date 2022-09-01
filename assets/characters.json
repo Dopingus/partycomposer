@@ -3086,6 +3086,22 @@
             "portraitPath": "/assets/portraitsId/icon_unit_122931.png"
         },
         {
+            "id": "1230",
+            "originalId": 123001,
+            "name": "Amesu",
+            "nameJP": "アメス",
+            "kanaName": "あめす",
+            "damageType": "magical",
+            "baseImage": "/assets/portraitsId/icon_unit_123011.png",
+            "threeStarImage": "/assets/portraitsId/icon_unit_123031.png",
+            "searchArea": 746,
+            "roles": [],
+            "position": "back",
+            "maxAscensionLevel": "5",
+            "formation": 746,
+            "portraitPath": "/assets/portraitsId/icon_unit_123031.png"
+        },
+        {
             "id": "1801",
             "originalId": 180101,
             "name": "Hiyori (Princess)",
