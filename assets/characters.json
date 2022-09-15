@@ -3120,6 +3120,22 @@
             "portraitPath": "/assets/portraitsId/icon_unit_123131.png"
         },
         {
+            "id": "1232",
+            "originalId": 123201,
+            "name": "Ayane (ekusupurooraa)",
+            "nameJP": "アヤネ（エクスプローラー）",
+            "kanaName": "あやね",
+            "damageType": "physical",
+            "baseImage": "/assets/portraitsId/icon_unit_123211.png",
+            "threeStarImage": "/assets/portraitsId/icon_unit_123231.png",
+            "searchArea": 256,
+            "roles": [],
+            "position": "front",
+            "maxAscensionLevel": "5",
+            "formation": 256,
+            "portraitPath": "/assets/portraitsId/icon_unit_123231.png"
+        },
+        {
             "id": "1801",
             "originalId": 180101,
             "name": "Hiyori (Princess)",
