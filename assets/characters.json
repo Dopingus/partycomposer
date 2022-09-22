@@ -3136,6 +3136,22 @@
             "portraitPath": "/assets/portraitsId/icon_unit_123231.png"
         },
         {
+            "id": "1233",
+            "originalId": 123301,
+            "name": "Nea",
+            "nameJP": "ネア",
+            "kanaName": "ねあ",
+            "damageType": "physical",
+            "baseImage": "/assets/portraitsId/icon_unit_123311.png",
+            "threeStarImage": "/assets/portraitsId/icon_unit_123331.png",
+            "searchArea": 350,
+            "roles": [],
+            "position": "front",
+            "maxAscensionLevel": "5",
+            "formation": 350,
+            "portraitPath": "/assets/portraitsId/icon_unit_123331.png"
+        },
+        {
             "id": "1801",
             "originalId": 180101,
             "name": "Hiyori (Princess)",
