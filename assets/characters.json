@@ -569,8 +569,9 @@
             "searchArea": 220,
             "roles": [],
             "position": "front",
-            "maxAscensionLevel": "5",
+            "maxAscensionLevel": "6",
             "formation": 220,
+            "sixStarImage": "/assets/portraitsId/icon_unit_103761.png",
             "portraitPath": "/assets/portraitsId/icon_unit_103731.png"
         },
         {
@@ -3150,6 +3151,38 @@
             "maxAscensionLevel": "5",
             "formation": 350,
             "portraitPath": "/assets/portraitsId/icon_unit_123331.png"
+        },
+        {
+            "id": "1235",
+            "originalId": 123501,
+            "name": "Rin (Halloween)",
+            "nameJP": "リン（ハロウィン）",
+            "kanaName": "りん",
+            "damageType": "physical",
+            "baseImage": "/assets/portraitsId/icon_unit_123511.png",
+            "threeStarImage": "/assets/portraitsId/icon_unit_123531.png",
+            "searchArea": 583,
+            "roles": [],
+            "position": "mid",
+            "maxAscensionLevel": "5",
+            "formation": 583,
+            "portraitPath": "/assets/portraitsId/icon_unit_123531.png"
+        },
+        {
+            "id": "1236",
+            "originalId": 123601,
+            "name": "Tomo (Halloween)",
+            "nameJP": "トモ（ハロウィン）",
+            "kanaName": "とも",
+            "damageType": "physical",
+            "baseImage": "/assets/portraitsId/icon_unit_123611.png",
+            "threeStarImage": "/assets/portraitsId/icon_unit_123631.png",
+            "searchArea": 262,
+            "roles": [],
+            "position": "front",
+            "maxAscensionLevel": "5",
+            "formation": 262,
+            "portraitPath": "/assets/portraitsId/icon_unit_123631.png"
         },
         {
             "id": "1801",
