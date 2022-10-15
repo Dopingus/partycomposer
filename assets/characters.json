@@ -3185,6 +3185,22 @@
             "portraitPath": "/assets/portraitsId/icon_unit_123631.png"
         },
         {
+            "id": "1237",
+            "originalId": 123701,
+            "name": "Nanaka (Halloween)",
+            "nameJP": "ナナカ（ハロウィン）",
+            "kanaName": "ななか",
+            "damageType": "magical",
+            "baseImage": "/assets/portraitsId/icon_unit_123711.png",
+            "threeStarImage": "/assets/portraitsId/icon_unit_123731.png",
+            "searchArea": 741,
+            "roles": [],
+            "position": "back",
+            "maxAscensionLevel": "5",
+            "formation": 741,
+            "portraitPath": "/assets/portraitsId/icon_unit_123731.png"
+        },
+        {
             "id": "1801",
             "originalId": 180101,
             "name": "Hiyori (Princess)",
