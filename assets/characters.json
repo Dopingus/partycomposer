@@ -3201,6 +3201,22 @@
             "portraitPath": "/assets/portraitsId/icon_unit_123731.png"
         },
         {
+            "id": "1238",
+            "originalId": 123801,
+            "name": "Christina (wairudo)",
+            "nameJP": "クリスティーナ（ワイルド）",
+            "kanaName": "くりすてぃーな",
+            "damageType": "physical",
+            "baseImage": "/assets/portraitsId/icon_unit_123811.png",
+            "threeStarImage": "/assets/portraitsId/icon_unit_123831.png",
+            "searchArea": 238,
+            "roles": [],
+            "position": "front",
+            "maxAscensionLevel": "5",
+            "formation": 238,
+            "portraitPath": "/assets/portraitsId/icon_unit_123831.png"
+        },
+        {
             "id": "1801",
             "originalId": 180101,
             "name": "Hiyori (Princess)",
