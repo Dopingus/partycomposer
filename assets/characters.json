@@ -1039,6 +1039,22 @@
             "portraitPath": "/assets/portraitsId/icon_unit_106831.png"
         },
         {
+            "id": "1069",
+            "originalId": 106901,
+            "name": "Kaizaainsaito",
+            "nameJP": "カイザーインサイト",
+            "kanaName": "かいざーいんさいと",
+            "damageType": "physical",
+            "baseImage": "/assets/portraitsId/icon_unit_106911.png",
+            "threeStarImage": "/assets/portraitsId/icon_unit_106931.png",
+            "searchArea": 660,
+            "roles": [],
+            "position": "back",
+            "maxAscensionLevel": "5",
+            "formation": 660,
+            "portraitPath": "/assets/portraitsId/icon_unit_106931.png"
+        },
+        {
             "id": "1070",
             "originalId": 107001,
             "name": "Neneka",
@@ -3216,6 +3232,22 @@
             "maxAscensionLevel": "5",
             "formation": 238,
             "portraitPath": "/assets/portraitsId/icon_unit_123831.png"
+        },
+        {
+            "id": "1239",
+            "originalId": 123901,
+            "name": "Matsuri (wairudo)",
+            "nameJP": "マツリ（ワイルド）",
+            "kanaName": "まつり",
+            "damageType": "physical",
+            "baseImage": "/assets/portraitsId/icon_unit_123911.png",
+            "threeStarImage": "/assets/portraitsId/icon_unit_123931.png",
+            "searchArea": 183,
+            "roles": [],
+            "position": "front",
+            "maxAscensionLevel": "5",
+            "formation": 183,
+            "portraitPath": "/assets/portraitsId/icon_unit_123931.png"
         },
         {
             "id": "1801",
