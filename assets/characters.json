@@ -2964,7 +2964,7 @@
         {
             "id": "1221",
             "originalId": 122101,
-            "name": "Aoi (kyanpu)",
+            "name": "Aoi (Camp)",
             "nameJP": "アオイ（キャンプ）",
             "kanaName": "あおい",
             "damageType": "physical",
@@ -2980,7 +2980,7 @@
         {
             "id": "1222",
             "originalId": 122201,
-            "name": "Yukari (kyanpu)",
+            "name": "Yukari (Camp)",
             "nameJP": "ユカリ（キャンプ）",
             "kanaName": "ゆかり",
             "damageType": "physical",
@@ -2996,7 +2996,7 @@
         {
             "id": "1223",
             "originalId": 122301,
-            "name": "Vuanpyi",
+            "name": "Vampy",
             "nameJP": "ヴァンピィ",
             "kanaName": "うぁんぴぃ",
             "damageType": "magical",
@@ -3108,7 +3108,7 @@
         {
             "id": "1230",
             "originalId": 123001,
-            "name": "Amesu",
+            "name": "Ameth",
             "nameJP": "アメス",
             "kanaName": "あめす",
             "damageType": "magical",
@@ -3124,7 +3124,7 @@
         {
             "id": "1231",
             "originalId": 123101,
-            "name": "Maho (ekusupurooraa)",
+            "name": "Maho (Explorer)",
             "nameJP": "マホ（エクスプローラー）",
             "kanaName": "まほ",
             "damageType": "magical",
@@ -3140,7 +3140,7 @@
         {
             "id": "1232",
             "originalId": 123201,
-            "name": "Ayane (ekusupurooraa)",
+            "name": "Ayane (Explorer)",
             "nameJP": "アヤネ（エクスプローラー）",
             "kanaName": "あやね",
             "damageType": "physical",
@@ -3220,7 +3220,7 @@
         {
             "id": "1238",
             "originalId": 123801,
-            "name": "Christina (wairudo)",
+            "name": "Christina (Wild)",
             "nameJP": "クリスティーナ（ワイルド）",
             "kanaName": "くりすてぃーな",
             "damageType": "physical",
@@ -3236,7 +3236,7 @@
         {
             "id": "1239",
             "originalId": 123901,
-            "name": "Matsuri (wairudo)",
+            "name": "Matsuri (Wild)",
             "nameJP": "マツリ（ワイルド）",
             "kanaName": "まつり",
             "damageType": "physical",
