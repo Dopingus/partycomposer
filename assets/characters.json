@@ -3250,6 +3250,38 @@
             "portraitPath": "/assets/portraitsId/icon_unit_123931.png"
         },
         {
+            "id": "1240",
+            "originalId": 124001,
+            "name": "Akari (Christmas)",
+            "nameJP": "アカリ（クリスマス）",
+            "kanaName": "あかり",
+            "damageType": "magical",
+            "baseImage": "/assets/portraitsId/icon_unit_124011.png",
+            "threeStarImage": "/assets/portraitsId/icon_unit_124031.png",
+            "searchArea": 438,
+            "roles": [],
+            "position": "front",
+            "maxAscensionLevel": "5",
+            "formation": 438,
+            "portraitPath": "/assets/portraitsId/icon_unit_124031.png"
+        },
+        {
+            "id": "1241",
+            "originalId": 124101,
+            "name": "Yori (Christmas)",
+            "nameJP": "ヨリ（クリスマス）",
+            "kanaName": "より",
+            "damageType": "magical",
+            "baseImage": "/assets/portraitsId/icon_unit_124111.png",
+            "threeStarImage": "/assets/portraitsId/icon_unit_124131.png",
+            "searchArea": 433,
+            "roles": [],
+            "position": "front",
+            "maxAscensionLevel": "5",
+            "formation": 433,
+            "portraitPath": "/assets/portraitsId/icon_unit_124131.png"
+        },
+        {
             "id": "1801",
             "originalId": 180101,
             "name": "Hiyori (Princess)",
