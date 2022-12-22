@@ -3283,6 +3283,22 @@
             "portraitPath": "/assets/portraitsId/icon_unit_124131.png"
         },
         {
+            "id": "1242",
+            "originalId": 124201,
+            "name": "Jun (Christmas)",
+            "nameJP": "ジュン（クリスマス）",
+            "kanaName": "じゅん",
+            "damageType": "physical",
+            "baseImage": "/assets/portraitsId/icon_unit_124211.png",
+            "threeStarImage": "/assets/portraitsId/icon_unit_124231.png",
+            "searchArea": 144,
+            "roles": [],
+            "position": "front",
+            "maxAscensionLevel": "5",
+            "formation": 144,
+            "portraitPath": "/assets/portraitsId/icon_unit_124231.png"
+        },
+        {
             "id": "1801",
             "originalId": 180101,
             "name": "Hiyori (Princess)",
