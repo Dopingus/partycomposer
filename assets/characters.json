@@ -3299,6 +3299,70 @@
             "portraitPath": "/assets/portraitsId/icon_unit_124231.png"
         },
         {
+            "id": "1243",
+            "originalId": 124301,
+            "name": "An (an＆Grea)",
+            "nameJP": "アン（アン＆グレア）",
+            "kanaName": "あん",
+            "damageType": "none",
+            "baseImage": "/assets/portraitsId/icon_unit_124311.png",
+            "threeStarImage": "/assets/portraitsId/icon_unit_124331.png",
+            "searchArea": 577,
+            "roles": [],
+            "position": "mid",
+            "maxAscensionLevel": "5",
+            "formation": 577,
+            "portraitPath": "/assets/portraitsId/icon_unit_124331.png"
+        },
+        {
+            "id": "1244",
+            "originalId": 124401,
+            "name": "Grea (an＆gurea)",
+            "nameJP": "グレア（アン＆グレア）",
+            "kanaName": "ぐれあ",
+            "damageType": "none",
+            "baseImage": "/assets/portraitsId/icon_unit_124411.png",
+            "threeStarImage": "/assets/portraitsId/icon_unit_124431.png",
+            "searchArea": 577,
+            "roles": [],
+            "position": "mid",
+            "maxAscensionLevel": "5",
+            "formation": 577,
+            "portraitPath": "/assets/portraitsId/icon_unit_124431.png"
+        },
+        {
+            "id": "1246",
+            "originalId": 124601,
+            "name": "Misato (New Years)",
+            "nameJP": "ミサト（ニューイヤー）",
+            "kanaName": "みさと",
+            "damageType": "magical",
+            "baseImage": "/assets/portraitsId/icon_unit_124611.png",
+            "threeStarImage": "/assets/portraitsId/icon_unit_124631.png",
+            "searchArea": 698,
+            "roles": [],
+            "position": "back",
+            "maxAscensionLevel": "5",
+            "formation": 698,
+            "portraitPath": "/assets/portraitsId/icon_unit_124631.png"
+        },
+        {
+            "id": "1247",
+            "originalId": 124701,
+            "name": "Mitsuki (New Years)",
+            "nameJP": "ミツキ（ニューイヤー）",
+            "kanaName": "みつき",
+            "damageType": "physical",
+            "baseImage": "/assets/portraitsId/icon_unit_124711.png",
+            "threeStarImage": "/assets/portraitsId/icon_unit_124731.png",
+            "searchArea": 590,
+            "roles": [],
+            "position": "mid",
+            "maxAscensionLevel": "5",
+            "formation": 590,
+            "portraitPath": "/assets/portraitsId/icon_unit_124731.png"
+        },
+        {
             "id": "1801",
             "originalId": 180101,
             "name": "Hiyori (Princess)",
@@ -3441,6 +3505,22 @@
             "maxAscensionLevel": "5",
             "formation": 421,
             "portraitPath": "/assets/portraitsId/icon_unit_180931.png"
+        },
+        {
+            "id": "1810",
+            "originalId": 181001,
+            "name": "An＆Grea",
+            "nameJP": "アン＆グレア",
+            "kanaName": "あんぐれあ",
+            "damageType": "magical",
+            "baseImage": "/assets/portraitsId/icon_unit_181011.png",
+            "threeStarImage": "/assets/portraitsId/icon_unit_181031.png",
+            "searchArea": 577,
+            "roles": [],
+            "position": "mid",
+            "maxAscensionLevel": "5",
+            "formation": 577,
+            "portraitPath": "/assets/portraitsId/icon_unit_181031.png"
         }
     ]
 }
