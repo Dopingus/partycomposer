@@ -3332,6 +3332,22 @@
             "portraitPath": "/assets/portraitsId/icon_unit_124431.png"
         },
         {
+            "id": "1245",
+            "originalId": 124501,
+            "name": "Homare (New Years)",
+            "nameJP": "ホマレ（ニューイヤー）",
+            "kanaName": "ほまれ",
+            "damageType": "magical",
+            "baseImage": "/assets/portraitsId/icon_unit_124511.png",
+            "threeStarImage": "/assets/portraitsId/icon_unit_124531.png",
+            "searchArea": 707,
+            "roles": [],
+            "position": "back",
+            "maxAscensionLevel": "5",
+            "formation": 707,
+            "portraitPath": "/assets/portraitsId/icon_unit_124531.png"
+        },
+        {
             "id": "1246",
             "originalId": 124601,
             "name": "Misato (New Years)",
