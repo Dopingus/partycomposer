@@ -3380,6 +3380,38 @@
             "portraitPath": "/assets/portraitsId/icon_unit_124731.png"
         },
         {
+            "id": "1248",
+            "originalId": 124801,
+            "name": "Nozomi (ribereitaa)",
+            "nameJP": "ノゾミ（リベレイター）",
+            "kanaName": "のぞみ",
+            "damageType": "physical",
+            "baseImage": "/assets/portraitsId/icon_unit_124811.png",
+            "threeStarImage": "/assets/portraitsId/icon_unit_124831.png",
+            "searchArea": 423,
+            "roles": [],
+            "position": "front",
+            "maxAscensionLevel": "5",
+            "formation": 423,
+            "portraitPath": "/assets/portraitsId/icon_unit_124831.png"
+        },
+        {
+            "id": "1249",
+            "originalId": 124901,
+            "name": "Kaya (ribereitaa)",
+            "nameJP": "カヤ（リベレイター）",
+            "kanaName": "かや",
+            "damageType": "physical",
+            "baseImage": "/assets/portraitsId/icon_unit_124911.png",
+            "threeStarImage": "/assets/portraitsId/icon_unit_124931.png",
+            "searchArea": 170,
+            "roles": [],
+            "position": "front",
+            "maxAscensionLevel": "5",
+            "formation": 170,
+            "portraitPath": "/assets/portraitsId/icon_unit_124931.png"
+        },
+        {
             "id": "1801",
             "originalId": 180101,
             "name": "Hiyori (Princess)",
