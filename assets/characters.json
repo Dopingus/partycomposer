@@ -3413,6 +3413,22 @@
             "portraitPath": "/assets/portraitsId/icon_unit_124931.png"
         },
         {
+            "id": "1250",
+            "originalId": 125001,
+            "name": "Muimi (ribereitaa)",
+            "nameJP": "ムイミ（リベレイター）",
+            "kanaName": "むいみ",
+            "damageType": "physical",
+            "baseImage": "/assets/portraitsId/icon_unit_125011.png",
+            "threeStarImage": "/assets/portraitsId/icon_unit_125031.png",
+            "searchArea": 221,
+            "roles": [],
+            "position": "front",
+            "maxAscensionLevel": "5",
+            "formation": 221,
+            "portraitPath": "/assets/portraitsId/icon_unit_125031.png"
+        },
+        {
             "id": "1801",
             "originalId": 180101,
             "name": "Hiyori (Princess)",
