@@ -2677,6 +2677,22 @@
             "portraitPath": "/assets/portraitsId/icon_unit_118131.png"
         },
         {
+            "id": "1182",
+            "originalId": 118201,
+            "name": "Misora",
+            "nameJP": "ミソラ",
+            "kanaName": "みそら",
+            "damageType": "magical",
+            "baseImage": "/assets/portraitsId/icon_unit_118211.png",
+            "threeStarImage": "/assets/portraitsId/icon_unit_118231.png",
+            "searchArea": 730,
+            "roles": [],
+            "position": "back",
+            "maxAscensionLevel": "5",
+            "formation": 730,
+            "portraitPath": "/assets/portraitsId/icon_unit_118231.png"
+        },
+        {
             "id": "1185",
             "originalId": 118501,
             "name": "Karin",
