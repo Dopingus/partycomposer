@@ -1085,8 +1085,9 @@
             "searchArea": 290,
             "roles": [],
             "position": "front",
-            "maxAscensionLevel": "5",
+            "maxAscensionLevel": "6",
             "formation": 290,
+            "sixStarImage": "/assets/portraitsId/icon_unit_107161.png",
             "portraitPath": "/assets/portraitsId/icon_unit_107131.png"
         },
         {
@@ -3443,6 +3444,38 @@
             "maxAscensionLevel": "5",
             "formation": 221,
             "portraitPath": "/assets/portraitsId/icon_unit_125031.png"
+        },
+        {
+            "id": "1251",
+            "originalId": 125101,
+            "name": "Tamaki (kafye)",
+            "nameJP": "タマキ（カフェ）",
+            "kanaName": "たまき",
+            "damageType": "physical",
+            "baseImage": "/assets/portraitsId/icon_unit_125111.png",
+            "threeStarImage": "/assets/portraitsId/icon_unit_125131.png",
+            "searchArea": 825,
+            "roles": [],
+            "position": "back",
+            "maxAscensionLevel": "5",
+            "formation": 825,
+            "portraitPath": "/assets/portraitsId/icon_unit_125131.png"
+        },
+        {
+            "id": "1252",
+            "originalId": 125201,
+            "name": "Monika (kafye)",
+            "nameJP": "モニカ（カフェ）",
+            "kanaName": "もにか",
+            "damageType": "physical",
+            "baseImage": "/assets/portraitsId/icon_unit_125211.png",
+            "threeStarImage": "/assets/portraitsId/icon_unit_125231.png",
+            "searchArea": 463,
+            "roles": [],
+            "position": "front",
+            "maxAscensionLevel": "5",
+            "formation": 463,
+            "portraitPath": "/assets/portraitsId/icon_unit_125231.png"
         },
         {
             "id": "1801",
