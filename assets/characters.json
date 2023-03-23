@@ -2790,6 +2790,22 @@
             "portraitPath": "/assets/portraitsId/icon_unit_119931.png"
         },
         {
+            "id": "1200",
+            "originalId": 120001,
+            "name": "Shizuru (Noire)",
+            "nameJP": "シズル（ノワール）",
+            "kanaName": "しずる",
+            "damageType": "physical",
+            "baseImage": "/assets/portraitsId/icon_unit_120011.png",
+            "threeStarImage": "/assets/portraitsId/icon_unit_120031.png",
+            "searchArea": 190,
+            "roles": [],
+            "position": "front",
+            "maxAscensionLevel": "5",
+            "formation": 190,
+            "portraitPath": "/assets/portraitsId/icon_unit_120031.png"
+        },
+        {
             "id": "1207",
             "originalId": 120701,
             "name": "Shefi (New Years)",
