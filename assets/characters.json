@@ -146,8 +146,9 @@
             "searchArea": 440,
             "roles": [],
             "position": "front",
-            "maxAscensionLevel": "5",
+            "maxAscensionLevel": "6",
             "formation": 440,
+            "sixStarImage": "/assets/portraitsId/icon_unit_100961.png",
             "portraitPath": "/assets/portraitsId/icon_unit_100931.png"
         },
         {
@@ -3492,6 +3493,38 @@
             "maxAscensionLevel": "5",
             "formation": 463,
             "portraitPath": "/assets/portraitsId/icon_unit_125231.png"
+        },
+        {
+            "id": "1253",
+            "originalId": 125301,
+            "name": "Kokkoro (Ranger)",
+            "nameJP": "コッコロ（レンジャー）",
+            "kanaName": "こっころ",
+            "damageType": "physical",
+            "baseImage": "/assets/portraitsId/icon_unit_125311.png",
+            "threeStarImage": "/assets/portraitsId/icon_unit_125331.png",
+            "searchArea": 752,
+            "roles": [],
+            "position": "back",
+            "maxAscensionLevel": "5",
+            "formation": 752,
+            "portraitPath": "/assets/portraitsId/icon_unit_125331.png"
+        },
+        {
+            "id": "1254",
+            "originalId": 125401,
+            "name": "Shiori (Ranger)",
+            "nameJP": "シオリ（レンジャー）",
+            "kanaName": "しおり",
+            "damageType": "physical",
+            "baseImage": "/assets/portraitsId/icon_unit_125411.png",
+            "threeStarImage": "/assets/portraitsId/icon_unit_125431.png",
+            "searchArea": 710,
+            "roles": [],
+            "position": "back",
+            "maxAscensionLevel": "5",
+            "formation": 710,
+            "portraitPath": "/assets/portraitsId/icon_unit_125431.png"
         },
         {
             "id": "1801",
