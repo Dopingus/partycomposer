@@ -3527,6 +3527,22 @@
             "portraitPath": "/assets/portraitsId/icon_unit_125431.png"
         },
         {
+            "id": "1258",
+            "originalId": 125801,
+            "name": "Riri (fuoorun)",
+            "nameJP": "リリ（フォールン）",
+            "kanaName": "りり",
+            "damageType": "physical",
+            "baseImage": "/assets/portraitsId/icon_unit_125811.png",
+            "threeStarImage": "/assets/portraitsId/icon_unit_125831.png",
+            "searchArea": 464,
+            "roles": [],
+            "position": "front",
+            "maxAscensionLevel": "5",
+            "formation": 464,
+            "portraitPath": "/assets/portraitsId/icon_unit_125831.png"
+        },
+        {
             "id": "1801",
             "originalId": 180101,
             "name": "Hiyori (Princess)",
