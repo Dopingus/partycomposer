@@ -3527,6 +3527,38 @@
             "portraitPath": "/assets/portraitsId/icon_unit_125431.png"
         },
         {
+            "id": "1255",
+            "originalId": 125501,
+            "name": "Djeeta (uoorokku)",
+            "nameJP": "ジータ（ウォーロック）",
+            "kanaName": "じーた",
+            "damageType": "magical",
+            "baseImage": "/assets/portraitsId/icon_unit_125511.png",
+            "threeStarImage": "/assets/portraitsId/icon_unit_125531.png",
+            "searchArea": 443,
+            "roles": [],
+            "position": "front",
+            "maxAscensionLevel": "5",
+            "formation": 443,
+            "portraitPath": "/assets/portraitsId/icon_unit_125531.png"
+        },
+        {
+            "id": "1257",
+            "originalId": 125701,
+            "name": "Karin (arukemisuto)",
+            "nameJP": "カリン（アルケミスト）",
+            "kanaName": "かりん",
+            "damageType": "magical",
+            "baseImage": "/assets/portraitsId/icon_unit_125711.png",
+            "threeStarImage": "/assets/portraitsId/icon_unit_125731.png",
+            "searchArea": 579,
+            "roles": [],
+            "position": "mid",
+            "maxAscensionLevel": "5",
+            "formation": 579,
+            "portraitPath": "/assets/portraitsId/icon_unit_125731.png"
+        },
+        {
             "id": "1258",
             "originalId": 125801,
             "name": "Riri (fuoorun)",
