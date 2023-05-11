@@ -940,8 +940,9 @@
             "searchArea": 162,
             "roles": [],
             "position": "front",
-            "maxAscensionLevel": "5",
+            "maxAscensionLevel": "6",
             "formation": 162,
+            "sixStarImage": "/assets/portraitsId/icon_unit_106161.png",
             "portraitPath": "/assets/portraitsId/icon_unit_106131.png"
         },
         {
