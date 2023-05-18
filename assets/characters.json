@@ -3544,6 +3544,22 @@
             "portraitPath": "/assets/portraitsId/icon_unit_125531.png"
         },
         {
+            "id": "1256",
+            "originalId": 125601,
+            "name": "Bikara",
+            "nameJP": "ビカラ",
+            "kanaName": "びから",
+            "damageType": "physical",
+            "baseImage": "/assets/portraitsId/icon_unit_125611.png",
+            "threeStarImage": "/assets/portraitsId/icon_unit_125631.png",
+            "searchArea": 267,
+            "roles": [],
+            "position": "front",
+            "maxAscensionLevel": "5",
+            "formation": 267,
+            "portraitPath": "/assets/portraitsId/icon_unit_125631.png"
+        },
+        {
             "id": "1257",
             "originalId": 125701,
             "name": "Karin (arukemisuto)",
