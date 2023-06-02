@@ -3592,6 +3592,22 @@
             "portraitPath": "/assets/portraitsId/icon_unit_125831.png"
         },
         {
+            "id": "1262",
+            "originalId": 126201,
+            "name": "Illya (Ceremonial)",
+            "nameJP": "イリヤ（儀装束）",
+            "kanaName": "いりや",
+            "damageType": "magical",
+            "baseImage": "/assets/portraitsId/icon_unit_126211.png",
+            "threeStarImage": "/assets/portraitsId/icon_unit_126231.png",
+            "searchArea": 568,
+            "roles": [],
+            "position": "mid",
+            "maxAscensionLevel": "5",
+            "formation": 568,
+            "portraitPath": "/assets/portraitsId/icon_unit_126231.png"
+        },
+        {
             "id": "1801",
             "originalId": 180101,
             "name": "Hiyori (Princess)",
