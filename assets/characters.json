@@ -130,8 +130,9 @@
             "searchArea": 805,
             "roles": [],
             "position": "back",
-            "maxAscensionLevel": "5",
+            "maxAscensionLevel": "6",
             "formation": 805,
+            "sixStarImage": "/assets/portraitsId/icon_unit_100861.png",
             "portraitPath": "/assets/portraitsId/icon_unit_100831.png"
         },
         {
@@ -3606,6 +3607,22 @@
             "maxAscensionLevel": "5",
             "formation": 568,
             "portraitPath": "/assets/portraitsId/icon_unit_126231.png"
+        },
+        {
+            "id": "1263",
+            "originalId": 126301,
+            "name": "Yuki (Ceremonial)",
+            "nameJP": "ユキ（儀装束）",
+            "kanaName": "ゆき",
+            "damageType": "magical",
+            "baseImage": "/assets/portraitsId/icon_unit_126311.png",
+            "threeStarImage": "/assets/portraitsId/icon_unit_126331.png",
+            "searchArea": 456,
+            "roles": [],
+            "position": "front",
+            "maxAscensionLevel": "5",
+            "formation": 456,
+            "portraitPath": "/assets/portraitsId/icon_unit_126331.png"
         },
         {
             "id": "1801",
