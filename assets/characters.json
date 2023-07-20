@@ -3674,6 +3674,22 @@
             "portraitPath": "/assets/portraitsId/icon_unit_126731.png"
         },
         {
+            "id": "1268",
+            "originalId": 126801,
+            "name": "Yukari (Summer)",
+            "nameJP": "ユカリ（サマー）",
+            "kanaName": "ゆかり",
+            "damageType": "physical",
+            "baseImage": "/assets/portraitsId/icon_unit_126811.png",
+            "threeStarImage": "/assets/portraitsId/icon_unit_126831.png",
+            "searchArea": 159,
+            "roles": [],
+            "position": "front",
+            "maxAscensionLevel": "5",
+            "formation": 159,
+            "portraitPath": "/assets/portraitsId/icon_unit_126831.png"
+        },
+        {
             "id": "1801",
             "originalId": 180101,
             "name": "Hiyori (Princess)",
