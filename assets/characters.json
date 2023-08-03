@@ -3690,6 +3690,38 @@
             "portraitPath": "/assets/portraitsId/icon_unit_126831.png"
         },
         {
+            "id": "1269",
+            "originalId": 126901,
+            "name": "Ranfa (Summer)",
+            "nameJP": "ランファ（サマー）",
+            "kanaName": "らんふぁ",
+            "damageType": "magical",
+            "baseImage": "/assets/portraitsId/icon_unit_126911.png",
+            "threeStarImage": "/assets/portraitsId/icon_unit_126931.png",
+            "searchArea": 682,
+            "roles": [],
+            "position": "back",
+            "maxAscensionLevel": "5",
+            "formation": 682,
+            "portraitPath": "/assets/portraitsId/icon_unit_126931.png"
+        },
+        {
+            "id": "1270",
+            "originalId": 127001,
+            "name": "Kuuka (Summer)",
+            "nameJP": "クウカ（サマー）",
+            "kanaName": "くうか",
+            "damageType": "physical",
+            "baseImage": "/assets/portraitsId/icon_unit_127011.png",
+            "threeStarImage": "/assets/portraitsId/icon_unit_127031.png",
+            "searchArea": 133,
+            "roles": [],
+            "position": "front",
+            "maxAscensionLevel": "5",
+            "formation": 133,
+            "portraitPath": "/assets/portraitsId/icon_unit_127031.png"
+        },
+        {
             "id": "1801",
             "originalId": 180101,
             "name": "Hiyori (Princess)",
