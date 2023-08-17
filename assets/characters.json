@@ -3723,6 +3723,22 @@
             "portraitPath": "/assets/portraitsId/icon_unit_127031.png"
         },
         {
+            "id": "1271",
+            "originalId": 127101,
+            "name": "Shinobu (Summer)",
+            "nameJP": "シノブ（サマー）",
+            "kanaName": "しのぶ",
+            "damageType": "physical",
+            "baseImage": "/assets/portraitsId/icon_unit_127111.png",
+            "threeStarImage": "/assets/portraitsId/icon_unit_127131.png",
+            "searchArea": 255,
+            "roles": [],
+            "position": "front",
+            "maxAscensionLevel": "5",
+            "formation": 255,
+            "portraitPath": "/assets/portraitsId/icon_unit_127131.png"
+        },
+        {
             "id": "1801",
             "originalId": 180101,
             "name": "Hiyori (Princess)",
