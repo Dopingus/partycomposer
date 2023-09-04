@@ -3643,6 +3643,22 @@
             "portraitPath": "/assets/portraitsId/icon_unit_126431.png"
         },
         {
+            "id": "1265",
+            "originalId": 126501,
+            "name": "Rairaeru",
+            "nameJP": "ライラエル",
+            "kanaName": "らいらえる",
+            "damageType": "magical",
+            "baseImage": "/assets/portraitsId/icon_unit_126511.png",
+            "threeStarImage": "/assets/portraitsId/icon_unit_126531.png",
+            "searchArea": 740,
+            "roles": [],
+            "position": "back",
+            "maxAscensionLevel": "5",
+            "formation": 740,
+            "portraitPath": "/assets/portraitsId/icon_unit_126531.png"
+        },
+        {
             "id": "1266",
             "originalId": 126601,
             "name": "Neneka (Summer)",
