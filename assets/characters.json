@@ -639,8 +639,9 @@
             "searchArea": 165,
             "roles": [],
             "position": "front",
-            "maxAscensionLevel": "5",
+            "maxAscensionLevel": "6",
             "formation": 165,
+            "sixStarImage": "/assets/portraitsId/icon_unit_104361.png",
             "portraitPath": "/assets/portraitsId/icon_unit_104331.png"
         },
         {
@@ -3753,6 +3754,22 @@
             "maxAscensionLevel": "5",
             "formation": 255,
             "portraitPath": "/assets/portraitsId/icon_unit_127131.png"
+        },
+        {
+            "id": "1272",
+            "originalId": 127201,
+            "name": "Kyaru (Transfer Student)",
+            "nameJP": "キャル（編入生）",
+            "kanaName": "きゃる",
+            "damageType": "magical",
+            "baseImage": "/assets/portraitsId/icon_unit_127211.png",
+            "threeStarImage": "/assets/portraitsId/icon_unit_127231.png",
+            "searchArea": 804,
+            "roles": [],
+            "position": "back",
+            "maxAscensionLevel": "5",
+            "formation": 804,
+            "portraitPath": "/assets/portraitsId/icon_unit_127231.png"
         },
         {
             "id": "1801",
