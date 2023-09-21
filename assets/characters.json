@@ -3772,6 +3772,22 @@
             "portraitPath": "/assets/portraitsId/icon_unit_127231.png"
         },
         {
+            "id": "1273",
+            "originalId": 127301,
+            "name": "Suzuna (Transfer Student)",
+            "nameJP": "スズナ（編入生）",
+            "kanaName": "すずな",
+            "damageType": "physical",
+            "baseImage": "/assets/portraitsId/icon_unit_127311.png",
+            "threeStarImage": "/assets/portraitsId/icon_unit_127331.png",
+            "searchArea": 750,
+            "roles": [],
+            "position": "back",
+            "maxAscensionLevel": "5",
+            "formation": 750,
+            "portraitPath": "/assets/portraitsId/icon_unit_127331.png"
+        },
+        {
             "id": "1801",
             "originalId": 180101,
             "name": "Hiyori (Princess)",
