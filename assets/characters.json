@@ -3597,6 +3597,22 @@
             "portraitPath": "/assets/portraitsId/icon_unit_125831.png"
         },
         {
+            "id": "1260",
+            "originalId": 126001,
+            "name": "Kuria (fuoorun)",
+            "nameJP": "クリア（フォールン）",
+            "kanaName": "くりあ",
+            "damageType": "physical",
+            "baseImage": "/assets/portraitsId/icon_unit_126011.png",
+            "threeStarImage": "/assets/portraitsId/icon_unit_126031.png",
+            "searchArea": 406,
+            "roles": [],
+            "position": "front",
+            "maxAscensionLevel": "5",
+            "formation": 406,
+            "portraitPath": "/assets/portraitsId/icon_unit_126031.png"
+        },
+        {
             "id": "1262",
             "originalId": 126201,
             "name": "Illya (Ceremonial)",
@@ -3803,6 +3819,22 @@
             "maxAscensionLevel": "5",
             "formation": 304,
             "portraitPath": "/assets/portraitsId/icon_unit_127531.png"
+        },
+        {
+            "id": "1276",
+            "originalId": 127601,
+            "name": "Ruka (sarasaria)",
+            "nameJP": "ルカ（サラサリア）",
+            "kanaName": "るか",
+            "damageType": "physical",
+            "baseImage": "/assets/portraitsId/icon_unit_127611.png",
+            "threeStarImage": "/assets/portraitsId/icon_unit_127631.png",
+            "searchArea": 157,
+            "roles": [],
+            "position": "front",
+            "maxAscensionLevel": "5",
+            "formation": 157,
+            "portraitPath": "/assets/portraitsId/icon_unit_127631.png"
         },
         {
             "id": "1801",
